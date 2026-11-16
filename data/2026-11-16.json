@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generated": "2026-11-16T09:02:02+00:00",
+  "generated": "2026-11-16T09:06:06+00:00",
   "cap": 15,
   "sources": {
     "timeform": "ok",
@@ -23,6 +23,7 @@
         {
           "horse": "Market House",
           "cloth": 1,
+          "odds": "5/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -34,6 +35,7 @@
         {
           "horse": "Bread And Butter",
           "cloth": 2,
+          "odds": "33/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -45,6 +47,7 @@
         {
           "horse": "Prairie Diamond",
           "cloth": 3,
+          "odds": "7/2",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -56,6 +59,7 @@
         {
           "horse": "Whatsgoingonmarvin",
           "cloth": 4,
+          "odds": "16/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -67,6 +71,7 @@
         {
           "horse": "Jefe Triunfo",
           "cloth": 5,
+          "odds": "6/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -78,6 +83,7 @@
         {
           "horse": "Girl Of Gold",
           "cloth": 6,
+          "odds": "6/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -89,6 +95,7 @@
         {
           "horse": "Rip Wheeler",
           "cloth": 7,
+          "odds": "4/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -100,6 +107,7 @@
         {
           "horse": "No No Fizz",
           "cloth": 8,
+          "odds": "20/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -111,6 +119,7 @@
         {
           "horse": "Cadillac Ranch",
           "cloth": 9,
+          "odds": "10/1",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -122,6 +131,7 @@
         {
           "horse": "Kandor",
           "cloth": 10,
+          "odds": "20/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -133,6 +143,7 @@
         {
           "horse": "Nelson Gate",
           "cloth": 11,
+          "odds": "20/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -144,6 +155,7 @@
         {
           "horse": "Glitz And Glamour",
           "cloth": 12,
+          "odds": "20/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -173,6 +185,7 @@
         {
           "horse": "Percy Shelley",
           "cloth": 1,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -184,6 +197,7 @@
         {
           "horse": "Tune In A Box",
           "cloth": 2,
+          "odds": "5/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -195,6 +209,7 @@
         {
           "horse": "Norman Fletcher",
           "cloth": 3,
+          "odds": "7/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -206,6 +221,7 @@
         {
           "horse": "Kamille Au Kanada",
           "cloth": 4,
+          "odds": "4/1",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -217,6 +233,7 @@
         {
           "horse": "Stream Of Stars",
           "cloth": 5,
+          "odds": "12/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -228,6 +245,7 @@
         {
           "horse": "Jaramillo",
           "cloth": 6,
+          "odds": "6/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -239,6 +257,7 @@
         {
           "horse": "Grand Conqueror",
           "cloth": 7,
+          "odds": "3/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -250,6 +269,7 @@
         {
           "horse": "Way Out",
           "cloth": 8,
+          "odds": "50/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -261,6 +281,7 @@
         {
           "horse": "Tonaghneave Well",
           "cloth": 9,
+          "odds": "50/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -272,6 +293,7 @@
         {
           "horse": "Dragons And Demons",
           "cloth": 10,
+          "odds": "8/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -301,6 +323,7 @@
         {
           "horse": "Golly Gosh",
           "cloth": 1,
+          "odds": "2/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -312,6 +335,7 @@
         {
           "horse": "Of Corse I Can",
           "cloth": 2,
+          "odds": "5/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -323,6 +347,7 @@
         {
           "horse": "Good Girl Rachel",
           "cloth": 3,
+          "odds": "14/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -334,6 +359,7 @@
         {
           "horse": "Anothermanicmonday",
           "cloth": 4,
+          "odds": "7/2",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -345,6 +371,7 @@
         {
           "horse": "Athena's Dream",
           "cloth": 5,
+          "odds": "10/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -356,6 +383,7 @@
         {
           "horse": "Ephyra",
           "cloth": 6,
+          "odds": "25/1",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -367,6 +395,7 @@
         {
           "horse": "Alan Bresil",
           "cloth": 7,
+          "odds": "5/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -378,6 +407,7 @@
         {
           "horse": "Jurassic Pet",
           "cloth": 8,
+          "odds": "12/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -407,6 +437,7 @@
         {
           "horse": "Bobbi's Beauty",
           "cloth": 1,
+          "odds": "2/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -418,6 +449,7 @@
         {
           "horse": "Sir Edward Lear",
           "cloth": 2,
+          "odds": "3/1",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -429,6 +461,7 @@
         {
           "horse": "Kotari",
           "cloth": 3,
+          "odds": "5/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -440,6 +473,7 @@
         {
           "horse": "Sense Of Reason",
           "cloth": 4,
+          "odds": "8/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -451,6 +485,7 @@
         {
           "horse": "Victory Shout",
           "cloth": 5,
+          "odds": "20/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -462,6 +497,7 @@
         {
           "horse": "Giddyupadingdong",
           "cloth": 6,
+          "odds": "10/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -473,6 +509,7 @@
         {
           "horse": "Graeme The Grey",
           "cloth": 7,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -484,6 +521,7 @@
         {
           "horse": "Freddiemissmolli",
           "cloth": 8,
+          "odds": "12/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -513,6 +551,7 @@
         {
           "horse": "Roosike",
           "cloth": 1,
+          "odds": "4/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -524,6 +563,7 @@
         {
           "horse": "Harry's Pop",
           "cloth": 2,
+          "odds": "11/2",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -535,6 +575,7 @@
         {
           "horse": "Lord Ragnar",
           "cloth": 3,
+          "odds": "7/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -546,6 +587,7 @@
         {
           "horse": "Go Go Girl",
           "cloth": 4,
+          "odds": "9/2",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -557,6 +599,7 @@
         {
           "horse": "Pon Pon Dalia",
           "cloth": 5,
+          "odds": "16/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -568,6 +611,7 @@
         {
           "horse": "Big Hitter",
           "cloth": 6,
+          "odds": "10/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -579,6 +623,7 @@
         {
           "horse": "Angel Ang",
           "cloth": 7,
+          "odds": "25/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -590,6 +635,7 @@
         {
           "horse": "Sue's Last Chance",
           "cloth": 8,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -601,6 +647,7 @@
         {
           "horse": "Time Teller",
           "cloth": 9,
+          "odds": "7/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -612,6 +659,7 @@
         {
           "horse": "Farasan",
           "cloth": 10,
+          "odds": "16/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -623,6 +671,7 @@
         {
           "horse": "Romeo Guest",
           "cloth": 11,
+          "odds": "8/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -652,6 +701,7 @@
         {
           "horse": "Desert Romance",
           "cloth": 1,
+          "odds": "2/1",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -663,6 +713,7 @@
         {
           "horse": "Threelittleangels",
           "cloth": 2,
+          "odds": "5/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -674,6 +725,7 @@
         {
           "horse": "Diamond Blue Point",
           "cloth": 3,
+          "odds": "13/2",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -685,6 +737,7 @@
         {
           "horse": "Tootgarook",
           "cloth": 4,
+          "odds": "9/2",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -696,6 +749,7 @@
         {
           "horse": "Aloisi Star",
           "cloth": 5,
+          "odds": "7/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -707,6 +761,7 @@
         {
           "horse": "Kissamee",
           "cloth": 6,
+          "odds": "100/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -718,6 +773,7 @@
         {
           "horse": "Letter To Hermione",
           "cloth": 7,
+          "odds": "25/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -729,6 +785,7 @@
         {
           "horse": "Kirton Angel",
           "cloth": 8,
+          "odds": "12/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -740,6 +797,7 @@
         {
           "horse": "Persian Coast",
           "cloth": 9,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -751,6 +809,7 @@
         {
           "horse": "Ruby Punch",
           "cloth": 10,
+          "odds": "14/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -762,6 +821,7 @@
         {
           "horse": "Mystical Magical",
           "cloth": 11,
+          "odds": "33/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -773,6 +833,7 @@
         {
           "horse": "Milkin It",
           "cloth": 12,
+          "odds": "66/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -784,6 +845,7 @@
         {
           "horse": "Peacock's Way",
           "cloth": 13,
+          "odds": "100/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -813,6 +875,7 @@
         {
           "horse": "Leading Role",
           "cloth": 1,
+          "odds": "5/4",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -824,6 +887,7 @@
         {
           "horse": "Masai Land",
           "cloth": 2,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -835,6 +899,7 @@
         {
           "horse": "Steel Nation",
           "cloth": 3,
+          "odds": "14/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -846,6 +911,7 @@
         {
           "horse": "Ever Since",
           "cloth": 4,
+          "odds": "9/4",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -857,6 +923,7 @@
         {
           "horse": "Penselwood",
           "cloth": 5,
+          "odds": "66/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -868,6 +935,7 @@
         {
           "horse": "Afif",
           "cloth": 6,
+          "odds": "5/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -879,6 +947,7 @@
         {
           "horse": "Bayside Waltz",
           "cloth": 7,
+          "odds": "14/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -890,6 +959,7 @@
         {
           "horse": "Dj Harry",
           "cloth": 8,
+          "odds": "50/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -901,6 +971,7 @@
         {
           "horse": "Port Eleonora",
           "cloth": 9,
+          "odds": "150/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -930,6 +1001,7 @@
         {
           "horse": "Al Lahbab",
           "cloth": 1,
+          "odds": "10/11",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -941,6 +1013,7 @@
         {
           "horse": "Simply George",
           "cloth": 2,
+          "odds": "7/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -952,6 +1025,7 @@
         {
           "horse": "Vulcanist",
           "cloth": 3,
+          "odds": "8/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -963,6 +1037,7 @@
         {
           "horse": "Kings Medal",
           "cloth": 4,
+          "odds": "4/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -974,6 +1049,7 @@
         {
           "horse": "Splintered",
           "cloth": 5,
+          "odds": "100/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -985,6 +1061,7 @@
         {
           "horse": "Silent Wisdom",
           "cloth": 6,
+          "odds": "14/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -996,6 +1073,7 @@
         {
           "horse": "Adventus Saxonum",
           "cloth": 7,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1007,6 +1085,7 @@
         {
           "horse": "Laurel Crown",
           "cloth": 8,
+          "odds": "25/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1018,6 +1097,7 @@
         {
           "horse": "Graceful Gracie",
           "cloth": 9,
+          "odds": "50/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1047,6 +1127,7 @@
         {
           "horse": "Rhythm N Hooves",
           "cloth": 1,
+          "odds": "4/1",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -1058,6 +1139,7 @@
         {
           "horse": "Alligator Alley",
           "cloth": 2,
+          "odds": "25/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1069,6 +1151,7 @@
         {
           "horse": "Knebworth",
           "cloth": 3,
+          "odds": "10/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1080,6 +1163,7 @@
         {
           "horse": "Almaty Star",
           "cloth": 4,
+          "odds": "7/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1091,6 +1175,7 @@
         {
           "horse": "Rosenpur",
           "cloth": 5,
+          "odds": "12/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1102,6 +1187,7 @@
         {
           "horse": "Atomic Force",
           "cloth": 6,
+          "odds": "10/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1113,6 +1199,7 @@
         {
           "horse": "Law Of Average",
           "cloth": 7,
+          "odds": "9/2",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1124,6 +1211,7 @@
         {
           "horse": "Tan Rapido",
           "cloth": 8,
+          "odds": "9/2",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1135,6 +1223,7 @@
         {
           "horse": "Fiorella Princess",
           "cloth": 9,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1146,6 +1235,7 @@
         {
           "horse": "El Bufalo",
           "cloth": 10,
+          "odds": "12/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1157,6 +1247,7 @@
         {
           "horse": "Betsen",
           "cloth": 11,
+          "odds": "14/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1186,6 +1277,7 @@
         {
           "horse": "Intervention",
           "cloth": 1,
+          "odds": "9/4",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1197,6 +1289,7 @@
         {
           "horse": "Split Elevens",
           "cloth": 2,
+          "odds": "3/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1208,6 +1301,7 @@
         {
           "horse": "Mumayaz",
           "cloth": 3,
+          "odds": "16/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1219,6 +1313,7 @@
         {
           "horse": "Lessay",
           "cloth": 4,
+          "odds": "50/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1230,6 +1325,7 @@
         {
           "horse": "Royal Jet",
           "cloth": 5,
+          "odds": "66/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -1241,6 +1337,7 @@
         {
           "horse": "Queue Dos",
           "cloth": 6,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1252,6 +1349,7 @@
         {
           "horse": "Giorgio M",
           "cloth": 7,
+          "odds": "20/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1263,6 +1361,7 @@
         {
           "horse": "Newsreader",
           "cloth": 8,
+          "odds": "9/2",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -1274,6 +1373,7 @@
         {
           "horse": "Valentine Boy",
           "cloth": 9,
+          "odds": "5/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1285,6 +1385,7 @@
         {
           "horse": "Receipt",
           "cloth": 10,
+          "odds": "33/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -1296,6 +1397,7 @@
         {
           "horse": "Assessment",
           "cloth": 11,
+          "odds": "16/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -1325,6 +1427,7 @@
         {
           "horse": "Danehill Star",
           "cloth": 1,
+          "odds": "11/2",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1336,6 +1439,7 @@
         {
           "horse": "Rating",
           "cloth": 2,
+          "odds": "25/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1347,6 +1451,7 @@
         {
           "horse": "R P Mcmurphy",
           "cloth": 3,
+          "odds": "5/2",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -1358,6 +1463,7 @@
         {
           "horse": "Yehudi",
           "cloth": 4,
+          "odds": "5/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1369,6 +1475,7 @@
         {
           "horse": "Captain Parma",
           "cloth": 5,
+          "odds": "16/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1380,6 +1487,7 @@
         {
           "horse": "Criminal Shore",
           "cloth": 6,
+          "odds": "6/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1391,6 +1499,7 @@
         {
           "horse": "Lahan Kingman",
           "cloth": 7,
+          "odds": "14/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1402,6 +1511,7 @@
         {
           "horse": "Calyxoh",
           "cloth": 8,
+          "odds": "25/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1413,6 +1523,7 @@
         {
           "horse": "Galba",
           "cloth": 9,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1424,6 +1535,7 @@
         {
           "horse": "Susie Sioux",
           "cloth": 10,
+          "odds": "12/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1435,6 +1547,7 @@
         {
           "horse": "West Byfleet",
           "cloth": 11,
+          "odds": "20/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1446,6 +1559,7 @@
         {
           "horse": "Jojo's Legacy",
           "cloth": 12,
+          "odds": "12/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1475,6 +1589,7 @@
         {
           "horse": "Cosmos Raj",
           "cloth": 1,
+          "odds": "7/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1486,6 +1601,7 @@
         {
           "horse": "Farasi Lane",
           "cloth": 2,
+          "odds": "25/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1497,6 +1613,7 @@
         {
           "horse": "Mr Nugget",
           "cloth": 3,
+          "odds": "20/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1508,6 +1625,7 @@
         {
           "horse": "Oman",
           "cloth": 4,
+          "odds": "6/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1519,6 +1637,7 @@
         {
           "horse": "Sea The Light",
           "cloth": 5,
+          "odds": "7/2",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1530,6 +1649,7 @@
         {
           "horse": "Cancan In The Rain",
           "cloth": 6,
+          "odds": "12/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1541,6 +1661,7 @@
         {
           "horse": "Paladin",
           "cloth": 7,
+          "odds": "25/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1552,6 +1673,7 @@
         {
           "horse": "The Sweet Escape",
           "cloth": 8,
+          "odds": "14/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1563,6 +1685,7 @@
         {
           "horse": "Camino Del Ray",
           "cloth": 9,
+          "odds": "13/2",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1574,6 +1697,7 @@
         {
           "horse": "Ted Le Saux",
           "cloth": 10,
+          "odds": "6/1",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -1585,6 +1709,7 @@
         {
           "horse": "Livemore",
           "cloth": 11,
+          "odds": "20/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -1596,6 +1721,7 @@
         {
           "horse": "Felix Gem",
           "cloth": 12,
+          "odds": "14/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1607,6 +1733,7 @@
         {
           "horse": "Romance Spirit",
           "cloth": 13,
+          "odds": "7/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1636,6 +1763,7 @@
         {
           "horse": "Sea Of Charm",
           "cloth": 1,
+          "odds": "25/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1647,6 +1775,7 @@
         {
           "horse": "The Bay Warrior",
           "cloth": 2,
+          "odds": "20/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1658,6 +1787,7 @@
         {
           "horse": "It's A Love Thing",
           "cloth": 3,
+          "odds": "5/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1669,6 +1799,7 @@
         {
           "horse": "Saxophonic",
           "cloth": 4,
+          "odds": "13/8",
           "tf": 5,
           "atr": 0,
           "atr_rating": null,
@@ -1680,6 +1811,7 @@
         {
           "horse": "Tiger Beetle",
           "cloth": 5,
+          "odds": "16/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1691,6 +1823,7 @@
         {
           "horse": "Havachoc",
           "cloth": 6,
+          "odds": "8/1",
           "tf": 4,
           "atr": 0,
           "atr_rating": null,
@@ -1702,6 +1835,7 @@
         {
           "horse": "Kathleen Mary",
           "cloth": 7,
+          "odds": "4/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1713,6 +1847,7 @@
         {
           "horse": "Rogue Sea",
           "cloth": 8,
+          "odds": "33/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -1724,6 +1859,7 @@
         {
           "horse": "Heart Sign",
           "cloth": 9,
+          "odds": "10/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -1735,6 +1871,7 @@
         {
           "horse": "Hellion",
           "cloth": 10,
+          "odds": "33/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -1746,6 +1883,7 @@
         {
           "horse": "Man Of Desert",
           "cloth": 11,
+          "odds": "12/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
