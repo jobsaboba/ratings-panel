@@ -97,9 +97,16 @@
   <div class="brand">Clean Sweep<small>the ratings panel · 15/15</small></div>
   <div class="topbtns">
     <span class="iconbtn" id="dchip">—</span>
-    <button class="iconbtn" id="reload" title="refresh">⟳</button>
+    <button class="iconbtn" id="installBtn" style="display:none" title="Install app">⬇️ Install</button>
+    <button class="iconbtn" id="reload" title="Refresh">⟳</button>
   </div>
 </header>
+
+<div class="banner" id="installBanner">
+  📱 <b>Add to Home Screen</b> to install:<br>
+  iPhone — Share&nbsp;⬆️ → “Add to Home Screen”<br>
+  Android Chrome — ⋮ menu → “Add to Home screen”
+</div>
 
 <div class="banner" id="offline">You're offline — showing the last downloaded day.</div>
 
@@ -170,7 +177,7 @@ function render(d){
     <div class="race" data-key="${rc.time}|${rc.meeting}">
       <div class="rhead">
         <div class="t">${rc.time} ${rc.meeting}
-          <small>${(rc.name||"").slice(0,64)} · ${rc.n || (rc.runners||[]).length} run${rc.cls ? " · " + rc.cls : ""}${rc.distance ? " · " + rc.distance : ""}${rc.going ? " · " + rc.going : ""}</small>
+          <small>${rows[0] ? rows[0].horse : ""}${rows[0] && rows[0].odds ? " " + rows[0].odds : ""} · ${rc.n || (rc.runners||[]).length} run${rc.distance ? " · " + rc.distance : ""}${rc.going ? " · " + rc.going : ""}</small>
         </div>
         <div class="m">top panel <b>${rc.top_total}/${j.cap || 15}</b><br>${rc.top_horse ? rc.top_horse : "—"}</div>
       </div>
@@ -180,7 +187,7 @@ function render(d){
         <div class="rrow ${r.sweep ? 'sweep' : ''}">
           <div class="pos">${i+1}</div>
           <div class="nm"><b>${r.horse}${r.nr ? ' <span style="color:var(--red);font-size:.6rem">NR</span>' : ''}</b>
-            <small>TF ${r.tf ?? "–"}${r.atr_rating ? " · ATR " + r.atr_rating : ""}${r.rp_rpr ? " · RPR " + r.rp_rpr : ""}</small></div>
+            <small>${r.odds ? r.odds + " · " : ""}TF ${r.tf ?? "–"}${r.atr_rating ? " · ATR " + r.atr_rating : ""}${r.rp_rpr ? " · RPR " + r.rp_rpr : ""}</small></div>
           ${starPill("TF", r.tf ?? 0, 5)}
           ${starPill("ATR", r.atr ?? 0, 5)}
           ${starPill("RP", r.rp ?? 0, 5)}
@@ -228,13 +235,26 @@ async function load(){
   btn.classList.remove("spin");
 }
 
+let deferredInstall = null;
+window.addEventListener("beforeinstallprompt", e => {
+  e.preventDefault(); deferredInstall = e; document.getElementById("installBtn").style.display = "";
+});
+document.getElementById("installBtn").addEventListener("click", () => {
+  if (deferredInstall){ deferredInstall.prompt(); deferredInstall = null;
+    document.getElementById("installBtn").style.display = "none"; }
+});
+if (window.matchMedia && !matchMedia("(display-mode: standalone)"))
+  setTimeout(() => { if (!deferredInstall)
+    document.getElementById("installBanner").classList.add("show"); }, 2500);
+
 document.getElementById("reload").addEventListener("click", () => { cache = {}; load(); });
 load();
 </script>
 
 <script>
 if ("serviceWorker" in navigator)
-  navigator.serviceWorker.register("sw.js").catch(()=>{});
+  navigator.serviceWorker.register("sw.js?v=" + Date.now(),
+    { updateViaCache: "none" }).catch(()=>{});
 </script>
 </body>
 </html>
