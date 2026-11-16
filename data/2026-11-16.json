@@ -1,0 +1,1779 @@
+{
+  "date": "2026-11-16",
+  "generated": "2026-11-16T08:32:34+00:00",
+  "cap": 15,
+  "sources": {
+    "timeform": "ok",
+    "atr": "ok",
+    "rp": "ok"
+  },
+  "races": [
+    {
+      "time": "13:15",
+      "meeting": "Plumpton",
+      "name": "Paul Ferguson's Jumpers To Follow Amateur Jockeys' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 116y",
+      "going": "Good-good to soft in places",
+      "n": 12,
+      "top_horse": "Market House",
+      "top_total": 13,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Market House",
+          "cloth": 1,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 106,
+          "rp_rpr": 109,
+          "rp": 5,
+          "total": 13,
+          "sweep": false
+        },
+        {
+          "horse": "Bread And Butter",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 101,
+          "rp_rpr": 105,
+          "rp": 2,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Prairie Diamond",
+          "cloth": 3,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 97,
+          "rp_rpr": 106,
+          "rp": 3,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Whatsgoingonmarvin",
+          "cloth": 4,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 96,
+          "rp_rpr": 105,
+          "rp": 2,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Jefe Triunfo",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 102,
+          "rp_rpr": 106,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Girl Of Gold",
+          "cloth": 6,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 97,
+          "rp_rpr": 98,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Rip Wheeler",
+          "cloth": 7,
+          "tf": 4,
+          "atr": 5,
+          "atr_rating": 101,
+          "rp_rpr": 107,
+          "rp": 4,
+          "total": 13,
+          "sweep": false
+        },
+        {
+          "horse": "No No Fizz",
+          "cloth": 8,
+          "tf": 2,
+          "atr": 4,
+          "atr_rating": 103,
+          "rp_rpr": 107,
+          "rp": 4,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Cadillac Ranch",
+          "cloth": 9,
+          "tf": 5,
+          "atr": 4,
+          "atr_rating": 103,
+          "rp_rpr": 105,
+          "rp": 2,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Kandor",
+          "cloth": 10,
+          "tf": 2,
+          "atr": 1,
+          "atr_rating": 91,
+          "rp_rpr": 101,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Nelson Gate",
+          "cloth": 11,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 95,
+          "rp_rpr": 100,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Glitz And Glamour",
+          "cloth": 12,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 94,
+          "rp_rpr": 104,
+          "rp": 1,
+          "total": 5,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "MARKET HOUSE runs off just 3lb higher than when he won over 2m here in April and has nothing to fear over this longer trip. Having not been beaten far when third at Lingfield most recently, another bold showing can be expected with another step forward. Fellow course winner Jefe Triunfo is versatile regarding distance and looks a big danger, while Prairie Diamond and the returning Rip Wheeler are also capable of being on the premises. · Top Tip: Market House · Watch out for: Jefe Triunfo",
+        "rp": "by Andrew Bladen: This looks to be a good opportunity for MARKET HOUSE to get back to winning ways. Next best is Prairie Diamond."
+      }
+    },
+    {
+      "time": "14:15",
+      "meeting": "Plumpton",
+      "name": "'Anyone Want A Drink? Anyone?' Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 4f 116y",
+      "going": "Good-good to soft in places",
+      "n": 10,
+      "top_horse": "Kamille Au Kanada",
+      "top_total": 15,
+      "sweep": {
+        "horse": "Kamille Au Kanada",
+        "total": 15
+      },
+      "runners": [
+        {
+          "horse": "Percy Shelley",
+          "cloth": 1,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 128,
+          "rp_rpr": 132,
+          "rp": 1,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Tune In A Box",
+          "cloth": 2,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 142,
+          "rp_rpr": 137,
+          "rp": 3,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Norman Fletcher",
+          "cloth": 3,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 133,
+          "rp_rpr": 139,
+          "rp": 4,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Kamille Au Kanada",
+          "cloth": 4,
+          "tf": 5,
+          "atr": 5,
+          "atr_rating": 144,
+          "rp_rpr": 140,
+          "rp": 5,
+          "total": 15,
+          "sweep": true
+        },
+        {
+          "horse": "Stream Of Stars",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 132,
+          "rp_rpr": 129,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Jaramillo",
+          "cloth": 6,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 126,
+          "rp_rpr": 130,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Grand Conqueror",
+          "cloth": 7,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 130,
+          "rp_rpr": 128,
+          "rp": 0,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Way Out",
+          "cloth": 8,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 125,
+          "rp_rpr": 127,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Tonaghneave Well",
+          "cloth": 9,
+          "tf": 1,
+          "atr": 1,
+          "atr_rating": 117,
+          "rp_rpr": 125,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Dragons And Demons",
+          "cloth": 10,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 123,
+          "rp_rpr": 133,
+          "rp": 2,
+          "total": 7,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "A busy period didn't appear to be catching up with KAMILLE AU KANADA when she bolted up on her handicap bow at Lingfield six days ago and although this is tougher, Anthony Honeyball's rapidly progressive mare might have what it takes to defy a 7lb penalty again. Jaramillo looks threatening having trounced the opposition at Hereford, while Tune In A Box also arrives on the back of a similarly emphatic win. Friday's Cheltenham victor Norman Fletcher adds further spice to the mix, especially as he escapes a penalty for that success. · Top Tip: Kamille Au Kanada · Watch out for: Jaramillo",
+        "rp": "by Colin Russell: In a competitive contest last week's Sandown scorer TUNE IN A BOX is taken to beat Norman Fletcher and Kamille Au Kanada."
+      }
+    },
+    {
+      "time": "14:45",
+      "meeting": "Plumpton",
+      "name": "More Radio Novices' Limited Handicap Hurdle",
+      "class": "5",
+      "distance": "3m 1f 9y",
+      "going": "Good-good to soft in places",
+      "n": 8,
+      "top_horse": "Anothermanicmonday",
+      "top_total": 13,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Golly Gosh",
+          "cloth": 1,
+          "tf": 4,
+          "atr": 5,
+          "atr_rating": 96,
+          "rp_rpr": 95,
+          "rp": 0,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Of Corse I Can",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 92,
+          "rp_rpr": 98,
+          "rp": 2,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Good Girl Rachel",
+          "cloth": 3,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 90,
+          "rp_rpr": 96,
+          "rp": 1,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Anothermanicmonday",
+          "cloth": 4,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 94,
+          "rp_rpr": 101,
+          "rp": 5,
+          "total": 13,
+          "sweep": false
+        },
+        {
+          "horse": "Athena's Dream",
+          "cloth": 5,
+          "tf": 2,
+          "atr": 4,
+          "atr_rating": 93,
+          "rp_rpr": 94,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Ephyra",
+          "cloth": 6,
+          "tf": 5,
+          "atr": 3,
+          "atr_rating": 93,
+          "rp_rpr": 99,
+          "rp": 3,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Alan Bresil",
+          "cloth": 7,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 92,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Jurassic Pet",
+          "cloth": 8,
+          "tf": 1,
+          "atr": 2,
+          "atr_rating": 89,
+          "rp_rpr": 100,
+          "rp": 4,
+          "total": 7,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "GOLLY GOSH arrives having won twice over fences recently. Tom Ellis' gelding broke his duck here before following up at Southwell on Friday and given that he's on the same mark back over hurdles, he would appear to have every chance of completing the three-timer. Anothermanicmonday was the beneficiary of Freddie Mitchell weighing in light at Fontwell but is more appealing than most nonetheless, but spare a thought for Good Girl Rachel because the booking of Sam Twiston-Davies is an eyecatching one. · Top Tip: Golly Gosh · Watch out for: Anothermanicmonday",
+        "rp": "by Colin Russell: A chance is taken on ANOTHERMANICMONDAY , who has his stamina to prove on his first run at this trip but his recent 'win' form is solid."
+      }
+    },
+    {
+      "time": "15:45",
+      "meeting": "Plumpton",
+      "name": "Neville Hall 60th Birthday Celebration Novices' Handicap Hurdle",
+      "class": "5",
+      "distance": "1m 7f 207y",
+      "going": "Good-good to soft in places",
+      "n": 8,
+      "top_horse": "Kotari",
+      "top_total": 12,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Bobbi's Beauty",
+          "cloth": 1,
+          "tf": 4,
+          "atr": 5,
+          "atr_rating": 104,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Sir Edward Lear",
+          "cloth": 2,
+          "tf": 5,
+          "atr": 3,
+          "atr_rating": 103,
+          "rp_rpr": 97,
+          "rp": 1,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Kotari",
+          "cloth": 3,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 105,
+          "rp_rpr": 105,
+          "rp": 5,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Sense Of Reason",
+          "cloth": 4,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 105,
+          "rp_rpr": 104,
+          "rp": 4,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Victory Shout",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 102,
+          "rp_rpr": 100,
+          "rp": 2,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Giddyupadingdong",
+          "cloth": 6,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 97,
+          "rp_rpr": 100,
+          "rp": 2,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Graeme The Grey",
+          "cloth": 7,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 99,
+          "rp_rpr": 97,
+          "rp": 1,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Freddiemissmolli",
+          "cloth": 8,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 99,
+          "rp_rpr": 101,
+          "rp": 3,
+          "total": 8,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "BOBBI'S BEAUTY has five wins from her sixteen starts over the larger obstacles, including when successful at Stratford a week ago. Martin Keighley's mare had shown some promise over timber previously, though, and this might be a good opportunity given that she's 7lb lower in this discipline. Sir Edward Lear was no slouch on the level and is of interest now handicapping over hurdles, while Kotari appeals most of the remainder. · Top Tip: Bobbi's Beauty · Watch out for: Sir Edward Lear",
+        "rp": "by Alistair Jones: There's no reason why BOBBI'S BEAUTY (nap) can't transfer her progressive chase form back to hurdles and she's well handicapped."
+      }
+    },
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "name": "All-Weather Championship Is Back Nursery",
+      "class": "5",
+      "distance": "6f 20y",
+      "going": "Standard",
+      "n": 11,
+      "top_horse": "Harry's Pop",
+      "top_total": 12,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Roosike",
+          "cloth": 1,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 83,
+          "rp_rpr": 78,
+          "rp": 2,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Harry's Pop",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 86,
+          "rp_rpr": 81,
+          "rp": 5,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Lord Ragnar",
+          "cloth": 3,
+          "tf": 4,
+          "atr": 5,
+          "atr_rating": 90,
+          "rp_rpr": 79,
+          "rp": 3,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Go Go Girl",
+          "cloth": 4,
+          "tf": 5,
+          "atr": 3,
+          "atr_rating": 84,
+          "rp_rpr": 79,
+          "rp": 3,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Pon Pon Dalia",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 83,
+          "rp_rpr": 79,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Big Hitter",
+          "cloth": 6,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 81,
+          "rp_rpr": 79,
+          "rp": 3,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Angel Ang",
+          "cloth": 7,
+          "tf": 2,
+          "atr": 1,
+          "atr_rating": 73,
+          "rp_rpr": 78,
+          "rp": 2,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Sue's Last Chance",
+          "cloth": 8,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 79,
+          "rp_rpr": 80,
+          "rp": 4,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Time Teller",
+          "cloth": 9,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 85,
+          "rp_rpr": 76,
+          "rp": 1,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Farasan",
+          "cloth": 10,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 77,
+          "rp_rpr": 79,
+          "rp": 3,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Romeo Guest",
+          "cloth": 11,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 86,
+          "rp_rpr": 70,
+          "rp": 0,
+          "total": 7,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "Big Hitter found Listed company a step too far when finishing last at Doncaster but her form prior to that had been consistent and she warrants plenty of respect on her nursery bow. Time Teller is likely to be competitive judged on his runner-up efforts both here and at Leicester, but GO GO GIRL is preferred. Having placed on both starts so far, an opening mark of 73 appears to be more than fair. · Top Tip: Go Go Girl · Watch out for: Big Hitter",
+        "rp": "by Alistair Jones: There are likely improvers lurking with Go Go Girl top of that list but this is a drop in grade for LORD RAGNAR."
+      }
+    },
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "name": "AWC Finals Day At Newcastle 26th March EBF Fillies' Novice Stakes (GBB Race)",
+      "class": "4",
+      "distance": "6f 20y",
+      "going": "Standard",
+      "n": 13,
+      "top_horse": "Desert Romance",
+      "top_total": 14,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Desert Romance",
+          "cloth": 1,
+          "tf": 5,
+          "atr": 4,
+          "atr_rating": 91,
+          "rp_rpr": 90,
+          "rp": 5,
+          "total": 14,
+          "sweep": false
+        },
+        {
+          "horse": "Threelittleangels",
+          "cloth": 2,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 90,
+          "rp_rpr": 85,
+          "rp": 4,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Diamond Blue Point",
+          "cloth": 3,
+          "tf": 3,
+          "atr": 5,
+          "atr_rating": 96,
+          "rp_rpr": 80,
+          "rp": 2,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Tootgarook",
+          "cloth": 4,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 79,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Aloisi Star",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 77,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Kissamee",
+          "cloth": 6,
+          "tf": 1,
+          "atr": 2,
+          "atr_rating": 55,
+          "rp_rpr": 31,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Letter To Hermione",
+          "cloth": 7,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 74,
+          "rp_rpr": 54,
+          "rp": 1,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Kirton Angel",
+          "cloth": 8,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 84,
+          "rp_rpr": 82,
+          "rp": 3,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Persian Coast",
+          "cloth": 9,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 66,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Ruby Punch",
+          "cloth": 10,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 77,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Mystical Magical",
+          "cloth": 11,
+          "tf": 2,
+          "atr": 1,
+          "atr_rating": 38,
+          "rp_rpr": 37,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Milkin It",
+          "cloth": 12,
+          "tf": 1,
+          "atr": 2,
+          "atr_rating": 64,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Peacock's Way",
+          "cloth": 13,
+          "tf": 1,
+          "atr": 2,
+          "atr_rating": 57,
+          "rp_rpr": 48,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "DESERT ROMANCE brings experience to the table after finishing third on both starts so far at Newmarket and Doncaster. Although she was turned over at cramped odds on the latter occasion, she may well have found the testing conditions against her and the drop to 6f could help. Threelittleangels confirmed the promise of her debut third at Kempton when returning to the same venue and filling the runner-up spot last month. Diamond Blue Point and newcomer Tootgarook head the remainder. · Top Tip: Desert Romance · Watch out for: Threelittleangels",
+        "rp": "by Andrew Bladen: Experience may be the key here and preference is for DESERT ROMANCE to build on her two placed efforts. Next best is Persian Coast."
+      }
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "name": "AWC Season 14 Has Begun EBF Novice Stakes (GBB/GBBPlus Race) (Div 1)",
+      "class": "3",
+      "distance": "1m 142y",
+      "going": "Standard",
+      "n": 9,
+      "top_horse": "Leading Role",
+      "top_total": 15,
+      "sweep": {
+        "horse": "Leading Role",
+        "total": 15
+      },
+      "runners": [
+        {
+          "horse": "Leading Role",
+          "cloth": 1,
+          "tf": 5,
+          "atr": 5,
+          "atr_rating": 93,
+          "rp_rpr": 79,
+          "rp": 5,
+          "total": 15,
+          "sweep": true
+        },
+        {
+          "horse": "Masai Land",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 82,
+          "rp_rpr": 66,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Steel Nation",
+          "cloth": 3,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 60,
+          "rp_rpr": 52,
+          "rp": 1,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Ever Since",
+          "cloth": 4,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 81,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Penselwood",
+          "cloth": 5,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 63,
+          "rp_rpr": 51,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Afif",
+          "cloth": 6,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 85,
+          "rp_rpr": 70,
+          "rp": 4,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Bayside Waltz",
+          "cloth": 7,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 85,
+          "rp_rpr": 42,
+          "rp": 0,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Dj Harry",
+          "cloth": 8,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 71,
+          "rp_rpr": 63,
+          "rp": 2,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Port Eleonora",
+          "cloth": 9,
+          "tf": 2,
+          "atr": 1,
+          "atr_rating": 39,
+          "rp_rpr": 36,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "LEADING ROLE looked a decent prospect when making a winning debut at Nottingham last month and connections have found him an excellent opportunity to back that performance up under a penalty. Afif may well benefit from stepping up in trip after a brace of 7f efforts at Newmarket, while any market support for his stable companion Ever Since would make him of interest. · Top Tip: Leading Role · Watch out for: Afif",
+        "rp": "by Emily Weber: The two Gosden runners are worth a look but LEADING ROLE is the one to beat after a likeable winning debut at Nottingham."
+      }
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "name": "AWC Season 14 Has Begun EBF Novice Stakes (GBB/GBBPlus Race) (Div 2)",
+      "class": "3",
+      "distance": "1m 142y",
+      "going": "Standard",
+      "n": 9,
+      "top_horse": "Al Lahbab",
+      "top_total": 15,
+      "sweep": {
+        "horse": "Al Lahbab",
+        "total": 15
+      },
+      "runners": [
+        {
+          "horse": "Al Lahbab",
+          "cloth": 1,
+          "tf": 5,
+          "atr": 5,
+          "atr_rating": 96,
+          "rp_rpr": 88,
+          "rp": 5,
+          "total": 15,
+          "sweep": true
+        },
+        {
+          "horse": "Simply George",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 1,
+          "atr_rating": 56,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Vulcanist",
+          "cloth": 3,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 84,
+          "rp_rpr": 69,
+          "rp": 3,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Kings Medal",
+          "cloth": 4,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 82,
+          "rp_rpr": 76,
+          "rp": 4,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Splintered",
+          "cloth": 5,
+          "tf": 1,
+          "atr": 2,
+          "atr_rating": 58,
+          "rp_rpr": 49,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Silent Wisdom",
+          "cloth": 6,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 79,
+          "rp_rpr": 64,
+          "rp": 2,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Adventus Saxonum",
+          "cloth": 7,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 81,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Laurel Crown",
+          "cloth": 8,
+          "tf": 3,
+          "atr": 2,
+          "atr_rating": 71,
+          "rp_rpr": 25,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Graceful Gracie",
+          "cloth": 9,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 71,
+          "rp_rpr": 57,
+          "rp": 1,
+          "total": 5,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "AL LAHBAB made a debut full of promise when finishing a neck second at Newmarket last month and he's entitled to improve plenty for the run. Representing a top yard, he ought to take some stopping, although Kings Medal wouldn't be without a squeak on the back of a creditable Southwell fourth. It's also worth keeping a close eye on Adventus Saxonum, Vulcanist and Simply George. · Top Tip: Al Lahbab · Watch out for: Kings Medal",
+        "rp": "by Peter Entwistle: Charlie Appleby's AL LAHBAB made a very promising start when just denied at Newmarket recently and this Zarak colt gets a confident vote."
+      }
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "name": "Midnite Ain't Your Grandad's Bookie Handicap",
+      "class": "3",
+      "distance": "5f 21y",
+      "going": "Standard",
+      "n": 11,
+      "top_horse": "Tan Rapido",
+      "top_total": 14,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Rhythm N Hooves",
+          "cloth": 1,
+          "tf": 5,
+          "atr": 3,
+          "atr_rating": 99,
+          "rp_rpr": 103,
+          "rp": 1,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Alligator Alley",
+          "cloth": 2,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 102,
+          "rp_rpr": 100,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Knebworth",
+          "cloth": 3,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 98,
+          "rp_rpr": 104,
+          "rp": 2,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Almaty Star",
+          "cloth": 4,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 104,
+          "rp_rpr": 107,
+          "rp": 4,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Rosenpur",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 102,
+          "rp_rpr": 107,
+          "rp": 4,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Atomic Force",
+          "cloth": 6,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 100,
+          "rp_rpr": 105,
+          "rp": 3,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Law Of Average",
+          "cloth": 7,
+          "tf": 4,
+          "atr": 1,
+          "atr_rating": 94,
+          "rp_rpr": 103,
+          "rp": 1,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Tan Rapido",
+          "cloth": 8,
+          "tf": 4,
+          "atr": 5,
+          "atr_rating": 105,
+          "rp_rpr": 108,
+          "rp": 5,
+          "total": 14,
+          "sweep": false
+        },
+        {
+          "horse": "Fiorella Princess",
+          "cloth": 9,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 99,
+          "rp_rpr": 102,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "El Bufalo",
+          "cloth": 10,
+          "tf": 2,
+          "atr": 4,
+          "atr_rating": 100,
+          "rp_rpr": 105,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Betsen",
+          "cloth": 11,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 99,
+          "rp_rpr": 104,
+          "rp": 2,
+          "total": 7,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "TAN RAPIDO performed well back on the all-weather at Lingfield in July when scoring and almost doubled up on his return from a break here. That was a very creditable display and with improvement forthcoming he ought to go very close back at the minimum trip. Law Of Average should run his usual honest race and is noted, but the main danger is last-start Southwell winner Rhythm N Hooves. · Top Tip: Tan Rapido · Watch out for: Rhythm N Hooves",
+        "rp": "by Emily Weber: Tan Rapido can be dangerous but RHYTHM N HOOVES looked in tremendous form at Southwell recently and is taken to follow up."
+      }
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "name": "AW Trials Day - Lingfield 2nd Jan 2027 Handicap",
+      "class": "5",
+      "distance": "7f 36y",
+      "going": "Standard",
+      "n": 11,
+      "top_horse": "Newsreader",
+      "top_total": 14,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Intervention",
+          "cloth": 1,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 82,
+          "rp_rpr": 89,
+          "rp": 5,
+          "total": 13,
+          "sweep": false
+        },
+        {
+          "horse": "Split Elevens",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 80,
+          "rp_rpr": 80,
+          "rp": 0,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Mumayaz",
+          "cloth": 3,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 74,
+          "rp_rpr": 84,
+          "rp": 2,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Lessay",
+          "cloth": 4,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 78,
+          "rp_rpr": 82,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Royal Jet",
+          "cloth": 5,
+          "tf": 1,
+          "atr": 3,
+          "atr_rating": 76,
+          "rp_rpr": 82,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Queue Dos",
+          "cloth": 6,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 75,
+          "rp_rpr": 83,
+          "rp": 1,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Giorgio M",
+          "cloth": 7,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 67,
+          "rp_rpr": 86,
+          "rp": 3,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Newsreader",
+          "cloth": 8,
+          "tf": 5,
+          "atr": 5,
+          "atr_rating": 81,
+          "rp_rpr": 87,
+          "rp": 4,
+          "total": 14,
+          "sweep": false
+        },
+        {
+          "horse": "Valentine Boy",
+          "cloth": 9,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 78,
+          "rp_rpr": 82,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Receipt",
+          "cloth": 10,
+          "tf": 1,
+          "atr": 2,
+          "atr_rating": 64,
+          "rp_rpr": 83,
+          "rp": 1,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Assessment",
+          "cloth": 11,
+          "tf": 1,
+          "atr": 1,
+          "atr_rating": 63,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "Intervention has bounced back to form since switching to the all-weather and makes plenty of appeal, but slight preference is for SPLIT ELEVENS. A C&amp;D winner, the eight-year-old still retains plenty of enthusiasm for the game and should be winning a race of this nature sooner rather than later judged on a string of solid second-placed efforts. Newsreader is also noted. · Top Tip: Split Elevens · Watch out for: Intervention",
+        "rp": "by Peter Entwistle: Preference is for INTERVENTION who has returned to the AW in great nick and can resume winning ways after an excellent Chelmsford second."
+      }
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "name": "ARC All Weather Bonus Is Back Handicap",
+      "class": "5",
+      "distance": "1m 142y",
+      "going": "Standard",
+      "n": 12,
+      "top_horse": "R P Mcmurphy",
+      "top_total": 14,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Danehill Star",
+          "cloth": 1,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 75,
+          "rp_rpr": 82,
+          "rp": 5,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Rating",
+          "cloth": 2,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 73,
+          "rp_rpr": 78,
+          "rp": 1,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "R P Mcmurphy",
+          "cloth": 3,
+          "tf": 5,
+          "atr": 4,
+          "atr_rating": 76,
+          "rp_rpr": 82,
+          "rp": 5,
+          "total": 14,
+          "sweep": false
+        },
+        {
+          "horse": "Yehudi",
+          "cloth": 4,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 77,
+          "rp_rpr": 79,
+          "rp": 2,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Captain Parma",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 70,
+          "rp_rpr": 80,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Criminal Shore",
+          "cloth": 6,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 72,
+          "rp_rpr": 82,
+          "rp": 5,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Lahan Kingman",
+          "cloth": 7,
+          "tf": 2,
+          "atr": 5,
+          "atr_rating": 77,
+          "rp_rpr": 78,
+          "rp": 1,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Calyxoh",
+          "cloth": 8,
+          "tf": 2,
+          "atr": 3,
+          "atr_rating": 72,
+          "rp_rpr": 80,
+          "rp": 3,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Galba",
+          "cloth": 9,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 70,
+          "rp_rpr": 80,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Susie Sioux",
+          "cloth": 10,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 71,
+          "rp_rpr": 79,
+          "rp": 2,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "West Byfleet",
+          "cloth": 11,
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 69,
+          "rp_rpr": 77,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Jojo's Legacy",
+          "cloth": 12,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 76,
+          "rp_rpr": 81,
+          "rp": 4,
+          "total": 10,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "R P Mcmurphy won a selling handicap here last month and appears well placed to at least go close in a race which lacks much strength in depth. A wide draw does complicate the task and recent C&amp;D winner YEHUDI could be the one to capitalise, who Hope Regan's 7lb claim bolstering his chance at the weights. Criminal Shore and Lahan Kingman are others to consider for some each-way value. · Top Tip: Yehudi · Watch out for: R P Mcmurphy",
+        "rp": "by Peter Entwistle: The verdict goes to DANEHILL STAR who continues in fine form and can bag win number five on the back of an excellent Newcastle second."
+      }
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "name": "Midnite A Next Generation Betting App Handicap",
+      "class": "5",
+      "distance": "1m 1f 104y",
+      "going": "Standard",
+      "n": 13,
+      "top_horse": "Ted Le Saux",
+      "top_total": 15,
+      "sweep": {
+        "horse": "Ted Le Saux",
+        "total": 15
+      },
+      "runners": [
+        {
+          "horse": "Cosmos Raj",
+          "cloth": 1,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 84,
+          "rp_rpr": 89,
+          "rp": 5,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Farasi Lane",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 81,
+          "rp_rpr": 88,
+          "rp": 4,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Mr Nugget",
+          "cloth": 3,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 86,
+          "rp_rpr": 89,
+          "rp": 5,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Oman",
+          "cloth": 4,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 82,
+          "rp_rpr": 86,
+          "rp": 2,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Sea The Light",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 84,
+          "rp_rpr": 88,
+          "rp": 4,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Cancan In The Rain",
+          "cloth": 6,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 80,
+          "rp_rpr": 88,
+          "rp": 4,
+          "total": 11,
+          "sweep": false
+        },
+        {
+          "horse": "Paladin",
+          "cloth": 7,
+          "tf": 4,
+          "atr": 3,
+          "atr_rating": 77,
+          "rp_rpr": 85,
+          "rp": 1,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "The Sweet Escape",
+          "cloth": 8,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 78,
+          "rp_rpr": 86,
+          "rp": 2,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Camino Del Ray",
+          "cloth": 9,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 82,
+          "rp_rpr": 87,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Ted Le Saux",
+          "cloth": 10,
+          "tf": 5,
+          "atr": 5,
+          "atr_rating": 84,
+          "rp_rpr": 89,
+          "rp": 5,
+          "total": 15,
+          "sweep": true
+        },
+        {
+          "horse": "Livemore",
+          "cloth": 11,
+          "tf": 2,
+          "atr": 1,
+          "atr_rating": 68,
+          "rp_rpr": 82,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Felix Gem",
+          "cloth": 12,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 84,
+          "rp_rpr": 85,
+          "rp": 1,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Romance Spirit",
+          "cloth": 13,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 80,
+          "rp_rpr": 82,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "Romance Spirit remains unexposed after just three career starts and looks to be on a workable mark for her handicap debut, while Ted Le Saux is capable of being in the mix after his latest C&amp;D third. That said, COSMOS RAJ gets the vote. David O'Meara's gelding went close at Newcastle last time and a repeat of that effort could prove to be enough. · Top Tip: Cosmos Raj · Watch out for: Romance Spirit",
+        "rp": "by Alistair Jones: A good few with chances but the lightly raced TED LE SAUX shaped very nicely here on his return from a break."
+      }
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "name": "Make The Move To Midnite Handicap",
+      "class": "6",
+      "distance": "1m 4f 51y",
+      "going": "Standard",
+      "n": 11,
+      "top_horse": "Saxophonic",
+      "top_total": 15,
+      "sweep": {
+        "horse": "Saxophonic",
+        "total": 15
+      },
+      "runners": [
+        {
+          "horse": "Sea Of Charm",
+          "cloth": 1,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 65,
+          "rp_rpr": 70,
+          "rp": 3,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "The Bay Warrior",
+          "cloth": 2,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 61,
+          "rp_rpr": 70,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "It's A Love Thing",
+          "cloth": 3,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 63,
+          "rp_rpr": 71,
+          "rp": 4,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Saxophonic",
+          "cloth": 4,
+          "tf": 5,
+          "atr": 5,
+          "atr_rating": 68,
+          "rp_rpr": 72,
+          "rp": 5,
+          "total": 15,
+          "sweep": true
+        },
+        {
+          "horse": "Tiger Beetle",
+          "cloth": 5,
+          "tf": 3,
+          "atr": 4,
+          "atr_rating": 67,
+          "rp_rpr": 67,
+          "rp": 0,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Havachoc",
+          "cloth": 6,
+          "tf": 4,
+          "atr": 4,
+          "atr_rating": 66,
+          "rp_rpr": 71,
+          "rp": 4,
+          "total": 12,
+          "sweep": false
+        },
+        {
+          "horse": "Kathleen Mary",
+          "cloth": 7,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 58,
+          "rp_rpr": 70,
+          "rp": 3,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Rogue Sea",
+          "cloth": 8,
+          "tf": 1,
+          "atr": 1,
+          "atr_rating": 51,
+          "rp_rpr": 66,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Heart Sign",
+          "cloth": 9,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 66,
+          "rp_rpr": 68,
+          "rp": 1,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Hellion",
+          "cloth": 10,
+          "tf": 1,
+          "atr": 3,
+          "atr_rating": 61,
+          "rp_rpr": 65,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Man Of Desert",
+          "cloth": 11,
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 64,
+          "rp_rpr": 69,
+          "rp": 2,
+          "total": 8,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "SAXOPHONIC was victorious over 1m6f here in September before appearing not to stay the extended 2m at Southwell. David Simcock's three-year-old bounced back in no uncertain terms with a cosy C&amp;D win last time and is fancied to find the improvement required to defy a 4lb rise in the handicap. The extended 1m1f was probably inadequate for Tiger Beetle a fortnight ago so it would come as no surprise were he to get closer this time. Kathleen Mary completes the shortlist. · Top Tip: Saxophonic · Watch out for: Tiger Beetle",
+        "rp": "by Alistair Jones: David Simcock's SAXOPHONIC (nap) is in career-best form and effectively 1lb lower than for his recent 2l success over C&amp;D."
+      }
+    }
+  ]
+}
