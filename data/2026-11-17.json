@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-18T06:19:48+00:00",
+  "generated": "2026-11-24T06:35:12+00:00",
   "cap": 15,
   "sources": {
     "timeform": "ok",
@@ -15,7 +15,7 @@
       "class": "4",
       "distance": "2m 3f 218y",
       "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
-      "n": 9,
+      "n": 14,
       "top_horse": "They're Chancers",
       "top_total": 10,
       "sweep": null,
@@ -81,6 +81,18 @@
           "sweep": false
         },
         {
+          "horse": "Marble Sky",
+          "cloth": 6,
+          "odds": "150/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        },
+        {
           "horse": "Ar Ais Aris",
           "cloth": 7,
           "odds": "6/1",
@@ -117,6 +129,18 @@
           "sweep": false
         },
         {
+          "horse": "Mymatemac",
+          "cloth": 10,
+          "odds": "100/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 84,
+          "rp": 1,
+          "total": 2,
+          "sweep": false
+        },
+        {
           "horse": "Absence Of Ego",
           "cloth": 11,
           "odds": "20/1",
@@ -126,6 +150,42 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "A Merry Walk",
+          "cloth": 12,
+          "odds": "33/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Frompillartopost",
+          "cloth": 13,
+          "odds": "33/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Gili Island",
+          "cloth": 14,
+          "odds": "66/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 86,
+          "rp": 2,
+          "total": 4,
           "sweep": false
         }
       ],
@@ -141,7 +201,7 @@
       "class": "",
       "distance": "2m 2f 150y",
       "going": "Yielding",
-      "n": 10,
+      "n": 14,
       "top_horse": "Poet's Duke",
       "top_total": 10,
       "sweep": null,
@@ -183,6 +243,30 @@
           "sweep": false
         },
         {
+          "horse": "Awordinyourear",
+          "cloth": 4,
+          "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 49,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Western Note",
+          "cloth": 5,
+          "odds": "5/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
           "horse": "Go Loud",
           "cloth": 7,
           "odds": "8/1",
@@ -216,6 +300,18 @@
           "rp_rpr": 83,
           "rp": 1,
           "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Days Go By",
+          "cloth": 10,
+          "odds": "16/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 80,
+          "rp": 0,
+          "total": 3,
           "sweep": false
         },
         {
@@ -255,6 +351,18 @@
           "sweep": false
         },
         {
+          "horse": "Checkpoint Georgie",
+          "cloth": 16,
+          "odds": "50/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 31,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        },
+        {
           "horse": "Matcho D'agrostis",
           "cloth": 17,
           "odds": "50/1",
@@ -279,7 +387,7 @@
       "class": "",
       "distance": "2m",
       "going": "Yielding",
-      "n": 8,
+      "n": 12,
       "top_horse": "Detroit Maverick",
       "top_total": 9,
       "sweep": null,
@@ -333,6 +441,18 @@
           "sweep": false
         },
         {
+          "horse": "Gerrymadiddler",
+          "cloth": 7,
+          "odds": "100/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
           "horse": "Le Vent D'ex",
           "cloth": 8,
           "odds": "10/1",
@@ -342,6 +462,18 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Soldier Power",
+          "cloth": 9,
+          "odds": "100/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 30,
+          "rp": 0,
+          "total": 1,
           "sweep": false
         },
         {
@@ -379,6 +511,30 @@
           "rp": 3,
           "total": 6,
           "sweep": false
+        },
+        {
+          "horse": "Mane Road",
+          "cloth": 16,
+          "odds": "66/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Hazem",
+          "cloth": 17,
+          "odds": "150/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 64,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
         }
       ],
       "verdicts": {
@@ -393,7 +549,7 @@
       "class": "4",
       "distance": "2m 1f 33y",
       "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
-      "n": 9,
+      "n": 10,
       "top_horse": "Throatlash",
       "top_total": 8,
       "sweep": null,
@@ -483,6 +639,18 @@
           "sweep": false
         },
         {
+          "horse": "Kapoutchino",
+          "cloth": 8,
+          "odds": "25/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
           "horse": "Handball Maradona",
           "cloth": 9,
           "odds": "25/1",
@@ -513,13 +681,679 @@
       }
     },
     {
+      "time": "13:10",
+      "meeting": "Limerick",
+      "name": "Panoramic Restaurant At Limerick Races Mares Handicap Hurdle",
+      "class": "",
+      "distance": "2m",
+      "going": "Yielding",
+      "n": 9,
+      "top_horse": "Jumbos Jet",
+      "top_total": 9,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Cathryns Ruby",
+          "cloth": 1,
+          "odds": "5/2",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 109,
+          "rp": 1,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "La Tulipe Noire",
+          "cloth": 2,
+          "odds": "20/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 96,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Galileo Springs",
+          "cloth": 3,
+          "odds": "5/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 111,
+          "rp": 3,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Jumbos Jet",
+          "cloth": 4,
+          "odds": "3/1",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 113,
+          "rp": 4,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Albatala",
+          "cloth": 6,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 111,
+          "rp": 3,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Mercurial Sea",
+          "cloth": 7,
+          "odds": "8/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 113,
+          "rp": 4,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Aleish Lass",
+          "cloth": 8,
+          "odds": "20/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 110,
+          "rp": 2,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Kate Knows Best",
+          "cloth": 9,
+          "odds": "14/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 114,
+          "rp": 5,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "St Anthonys Corner",
+          "cloth": 10,
+          "odds": "20/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 95,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": "by Alan Sweetman: Fourth in a competitive handicap at the Curragh last month, GALILEO SPRINGS has fair prospects of picking up a race of this nature."
+      }
+    },
+    {
+      "time": "13:25",
+      "meeting": "Carlisle",
+      "name": "Crown & Thistle Novices' Hurdle (GBB Race) (Div 2)",
+      "class": "4",
+      "distance": "2m 1f 33y",
+      "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
+      "n": 9,
+      "top_horse": "Bohemond Antioch",
+      "top_total": 8,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Turbocharged",
+          "cloth": 1,
+          "odds": "4/9",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Pedro The Poet",
+          "cloth": 2,
+          "odds": "16/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "St Michael's Well",
+          "cloth": 3,
+          "odds": "14/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 115,
+          "rp": 4,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Onyerbike",
+          "cloth": 4,
+          "odds": "12/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Bohemond Antioch",
+          "cloth": 5,
+          "odds": "5/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 121,
+          "rp": 5,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Rupert The Prince",
+          "cloth": 6,
+          "odds": "50/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 78,
+          "rp": 2,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Royal March",
+          "cloth": 7,
+          "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 104,
+          "rp": 3,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Biscuit Billy",
+          "cloth": 8,
+          "odds": "16/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Teescomponents Gal",
+          "cloth": 9,
+          "odds": "100/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": "by Ben Hutton: This looks a good opportunity for TURBOCHARGED , who won a bumper at Haydock in March by 7l, to make a winning start over hurdles."
+      }
+    },
+    {
+      "time": "13:40",
+      "meeting": "Limerick",
+      "name": "Follow Us On Instagram Handicap Hurdle (0-100)",
+      "class": "",
+      "distance": "2m",
+      "going": "Yielding",
+      "n": 9,
+      "top_horse": "The Monkey Pole",
+      "top_total": 10,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Maciver",
+          "cloth": 1,
+          "odds": "12/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 2,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Makaiah",
+          "cloth": 2,
+          "odds": "6/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 97,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "The Monkey Pole",
+          "cloth": 3,
+          "odds": "2/1",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 104,
+          "rp": 5,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Get It Right",
+          "cloth": 4,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 102,
+          "rp": 3,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Theanniversary Man",
+          "cloth": 5,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 100,
+          "rp": 1,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Devine Genius",
+          "cloth": 7,
+          "odds": "12/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 77,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Frontier Rose",
+          "cloth": 8,
+          "odds": "4/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 103,
+          "rp": 4,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Boston Bongo",
+          "cloth": 9,
+          "odds": "16/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 2,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Nothing Da Now",
+          "cloth": 10,
+          "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 100,
+          "rp": 1,
+          "total": 3,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": "by Dave Stephens: THE MONKEY POLE (nap) was first past the post then demoted in a beginners' at Thurles five days ago and he can gain compensation here."
+      }
+    },
+    {
+      "time": "13:55",
+      "meeting": "Carlisle",
+      "name": "Settle With Claims Care Consultants Handicap Hurdle",
+      "class": "5",
+      "distance": "3m 123y",
+      "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
+      "n": 11,
+      "top_horse": "Coventry",
+      "top_total": 10,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Wasdell Dundalk",
+          "cloth": 1,
+          "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Shoeshine Boy",
+          "cloth": 2,
+          "odds": "12/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "King Berry",
+          "cloth": 3,
+          "odds": "7/2",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 102,
+          "rp": 5,
+          "total": 9,
+          "sweep": false
+        },
+        {
+          "horse": "Coventry",
+          "cloth": 4,
+          "odds": "5/1",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 102,
+          "rp": 5,
+          "total": 10,
+          "sweep": false
+        },
+        {
+          "horse": "Shighness",
+          "cloth": 5,
+          "odds": "16/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Ebselysees",
+          "cloth": 6,
+          "odds": "6/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Junior Des Mottes",
+          "cloth": 7,
+          "odds": "6/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Hopeless Dancer",
+          "cloth": 8,
+          "odds": "20/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Raceview Road",
+          "cloth": 10,
+          "odds": "12/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Prince Des Fichaux",
+          "cloth": 11,
+          "odds": "20/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        },
+        {
+          "horse": "Kalo Athena",
+          "cloth": 12,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 7,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": "by Ben Hutton: The 10yo SHOESHINE BOY has dipped below his last winning mark and the forecast rain on Tuesday is very much in his favour."
+      }
+    },
+    {
+      "time": "14:10",
+      "meeting": "Limerick",
+      "name": "Mr Binman Christmas Racing Festival 26th - 29th December Handicap Hurdle (0-100) (Div 1)",
+      "class": "",
+      "distance": "2m 5f",
+      "going": "Yielding",
+      "n": 10,
+      "top_horse": "Zolpharine",
+      "top_total": 8,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "The Cobblers Wife",
+          "cloth": 2,
+          "odds": "4/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Zolpharine",
+          "cloth": 3,
+          "odds": "10/1",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 100,
+          "rp": 3,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Ardera Gun",
+          "cloth": 5,
+          "odds": "9/2",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 102,
+          "rp": 5,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Calzaghi",
+          "cloth": 6,
+          "odds": "10/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Johnny Cakes",
+          "cloth": 8,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 4,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Mellem",
+          "cloth": 9,
+          "odds": "12/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 99,
+          "rp": 2,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Free A Minute",
+          "cloth": 11,
+          "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 102,
+          "rp": 5,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Fenian Maxios",
+          "cloth": 13,
+          "odds": "50/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 100,
+          "rp": 3,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Seeitoldya",
+          "cloth": 14,
+          "odds": "33/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 98,
+          "rp": 1,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Ballinaboola Hanna",
+          "cloth": 16,
+          "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 102,
+          "rp": 5,
+          "total": 7,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": "by Dave Stephens: The manner of TALAS KERA 's win at Gowran suggested there could be more to come and she is taken to defy a 12lb rise."
+      }
+    },
+    {
       "time": "14:25",
       "meeting": "Carlisle",
       "name": "DJ Bell Celebration Handicap Hurdle",
       "class": "4",
       "distance": "2m 1f 33y",
       "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
-      "n": 11,
+      "n": 16,
       "top_horse": "Double Digits",
       "top_total": 8,
       "sweep": null,
@@ -573,6 +1407,18 @@
           "sweep": false
         },
         {
+          "horse": "An Mhi",
+          "cloth": 5,
+          "odds": "66/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        },
+        {
           "horse": "Razors Edge",
           "cloth": 6,
           "odds": "5/2",
@@ -594,6 +1440,18 @@
           "rp_rpr": 122,
           "rp": 2,
           "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Mick Collins",
+          "cloth": 8,
+          "odds": "16/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 119,
+          "rp": 0,
+          "total": 3,
           "sweep": false
         },
         {
@@ -633,6 +1491,30 @@
           "sweep": false
         },
         {
+          "horse": "Dee's Getaway",
+          "cloth": 13,
+          "odds": "33/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 117,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Maree Verte",
+          "cloth": 14,
+          "odds": "8/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
           "horse": "Cavalier Du Luy",
           "cloth": 15,
           "odds": "16/1",
@@ -655,6 +1537,18 @@
           "rp": 1,
           "total": 4,
           "sweep": false
+        },
+        {
+          "horse": "Colegram",
+          "cloth": 17,
+          "odds": "20/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 112,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
         }
       ],
       "verdicts": {
@@ -669,7 +1563,7 @@
       "class": "",
       "distance": "2m 5f",
       "going": "Yielding",
-      "n": 11,
+      "n": 14,
       "top_horse": "Cahirdown Boy",
       "top_total": 8,
       "sweep": null,
@@ -723,6 +1617,18 @@
           "sweep": false
         },
         {
+          "horse": "Glory Sky",
+          "cloth": 7,
+          "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 92,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
           "horse": "Finnicky Filly",
           "cloth": 8,
           "odds": "12/1",
@@ -744,6 +1650,18 @@
           "rp_rpr": 100,
           "rp": 5,
           "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Jonzac",
+          "cloth": 10,
+          "odds": "9/2",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 91,
+          "rp": 0,
+          "total": 3,
           "sweep": false
         },
         {
@@ -804,6 +1722,18 @@
           "rp_rpr": 100,
           "rp": 5,
           "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Sum Story",
+          "cloth": 17,
+          "odds": "16/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 97,
+          "rp": 2,
+          "total": 4,
           "sweep": false
         }
       ],
@@ -948,6 +1878,144 @@
       "verdicts": {
         "atr": "",
         "rp": "by Alistair Jones: An open handicap. WALK ON SON ran his best race for a while last time at Hexham where he could easily have finished closer."
+      }
+    },
+    {
+      "time": "15:15",
+      "meeting": "Limerick",
+      "name": "Follow Us On Facebook At Limerick Races Handicap Hurdle (0-100)",
+      "class": "",
+      "distance": "3m 155y",
+      "going": "Yielding",
+      "n": 10,
+      "top_horse": "Political Stance",
+      "top_total": 8,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Spellacy's Cross",
+          "cloth": 3,
+          "odds": "6/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 102,
+          "rp": 3,
+          "total": 6,
+          "sweep": false
+        },
+        {
+          "horse": "Jolly Potter",
+          "cloth": 4,
+          "odds": "4/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 100,
+          "rp": 1,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Political Stance",
+          "cloth": 5,
+          "odds": "11/2",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 106,
+          "rp": 5,
+          "total": 8,
+          "sweep": false
+        },
+        {
+          "horse": "Rebel Queen",
+          "cloth": 6,
+          "odds": "20/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 100,
+          "rp": 1,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Shotgun Jack",
+          "cloth": 8,
+          "odds": "8/1",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 101,
+          "rp": 2,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Mullanour",
+          "cloth": 9,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 98,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Inches Away",
+          "cloth": 10,
+          "odds": "20/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 100,
+          "rp": 1,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Creadan Grace",
+          "cloth": 11,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Kilkee Bay",
+          "cloth": 12,
+          "odds": "12/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": 103,
+          "rp": 4,
+          "total": 7,
+          "sweep": false
+        },
+        {
+          "horse": "Hakensack",
+          "cloth": 14,
+          "odds": "33/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": "by Dave Stephens: JOLLY POTTER has shaped promisingly the last twice and this step up in trip may enable him to shed the maiden tag."
       }
     },
     {

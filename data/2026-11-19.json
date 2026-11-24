@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated": "2026-11-20T06:25:29+00:00",
+  "generated": "2026-11-24T06:35:12+00:00",
   "cap": 15,
   "sources": {
     "timeform": "ok",
@@ -633,6 +633,120 @@
       }
     },
     {
+      "time": "12:08",
+      "meeting": "Thurles",
+      "name": "Irish Stallion Farms EBF Beginners Chase",
+      "class": "",
+      "distance": "2m 5f 132y",
+      "going": "Good",
+      "n": 8,
+      "top_horse": "Doctor Steinberg",
+      "top_total": 5,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Doctor Steinberg",
+          "cloth": 1,
+          "odds": "8/11",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "Stede Bonnet",
+          "cloth": 2,
+          "odds": "13/2",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Franciscan Rock",
+          "cloth": 3,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Fire Coral",
+          "cloth": 4,
+          "odds": "12/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Fort Dino",
+          "cloth": 5,
+          "odds": "6/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Walks In June",
+          "cloth": 6,
+          "odds": "14/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Court Compliance",
+          "cloth": 7,
+          "odds": "8/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Farnahoe Rebel",
+          "cloth": 8,
+          "odds": "50/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": ""
+      }
+    },
+    {
       "time": "12:18",
       "meeting": "Lingfield",
       "name": "AWC Season 14 Has Begun / EBF Restricted Maiden Fillies' Stakes (GBB Race) (Div 1)",
@@ -951,7 +1065,7 @@
       "class": "",
       "distance": "2m 5f 132y",
       "going": "Good",
-      "n": 8,
+      "n": 12,
       "top_horse": "Iamagetaway",
       "top_total": 5,
       "sweep": null,
@@ -966,6 +1080,18 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Hees Dynamite",
+          "cloth": 3,
+          "odds": "8/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
           "sweep": false
         },
         {
@@ -993,6 +1119,18 @@
           "sweep": false
         },
         {
+          "horse": "Toor Khov",
+          "cloth": 6,
+          "odds": "20/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
           "horse": "Dundaniel",
           "cloth": 7,
           "odds": "14/1",
@@ -1002,6 +1140,30 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Schiehallion",
+          "cloth": 9,
+          "odds": "14/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Gatsby Grey",
+          "cloth": 10,
+          "odds": "16/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
           "sweep": false
         },
         {
@@ -1179,7 +1341,7 @@
       "class": "4",
       "distance": "2m 3f",
       "going": "Good to soft-soft in places",
-      "n": 8,
+      "n": 10,
       "top_horse": "Largy Force",
       "top_total": 5,
       "sweep": null,
@@ -1269,6 +1431,18 @@
           "sweep": false
         },
         {
+          "horse": "Farm Assured",
+          "cloth": 8,
+          "odds": "50/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        },
+        {
           "horse": "Safari",
           "cloth": 9,
           "odds": "20/1",
@@ -1278,6 +1452,18 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Tierbay",
+          "cloth": 10,
+          "odds": "100/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
           "sweep": false
         }
       ],
@@ -1407,7 +1593,7 @@
       "class": "",
       "distance": "2m 6f 107y",
       "going": "Good",
-      "n": 12,
+      "n": 14,
       "top_horse": "I Dont Really Care",
       "top_total": 5,
       "sweep": null,
@@ -1497,6 +1683,18 @@
           "sweep": false
         },
         {
+          "horse": "Hello Wee Love",
+          "cloth": 8,
+          "odds": "200/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        },
+        {
           "horse": "Crios Cu Chulainn",
           "cloth": 9,
           "odds": "25/1",
@@ -1518,6 +1716,18 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Park On The Green",
+          "cloth": 12,
+          "odds": "50/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
           "sweep": false
         },
         {
@@ -1716,6 +1926,132 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 1,
+          "sweep": false
+        }
+      ],
+      "verdicts": {
+        "atr": "",
+        "rp": ""
+      }
+    },
+    {
+      "time": "14:12",
+      "meeting": "Warwick",
+      "name": "Omoda And Jaecoo Race To Victory Mares' Handicap Hurdle",
+      "class": "3",
+      "distance": "2m 5f 5y",
+      "going": "Good to soft-soft in places",
+      "n": 9,
+      "top_horse": "Strong Run",
+      "top_total": 5,
+      "sweep": null,
+      "runners": [
+        {
+          "horse": "Easy To Follow",
+          "cloth": 1,
+          "odds": "4/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Betty's Daisy",
+          "cloth": 2,
+          "odds": "14/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Miss Cynthia",
+          "cloth": 3,
+          "odds": "5/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Party Vibes",
+          "cloth": 4,
+          "odds": "8/1",
+          "tf": 4,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Strong Run",
+          "cloth": 5,
+          "odds": "7/2",
+          "tf": 5,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 5,
+          "sweep": false
+        },
+        {
+          "horse": "I Spy A Diva",
+          "cloth": 6,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Analiese",
+          "cloth": 7,
+          "odds": "5/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Crystal Spring",
+          "cloth": 8,
+          "odds": "10/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Shallow Bowles",
+          "cloth": 9,
+          "odds": "12/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
           "sweep": false
         }
       ],
@@ -2067,7 +2403,7 @@
       "class": "",
       "distance": "2m 37y",
       "going": "Good",
-      "n": 14,
+      "n": 17,
       "top_horse": "Liceo",
       "top_total": 5,
       "sweep": null,
@@ -2121,6 +2457,30 @@
           "sweep": false
         },
         {
+          "horse": "Ballycommon Chapel",
+          "cloth": 5,
+          "odds": "12/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
+          "horse": "Hob's Angel",
+          "cloth": 6,
+          "odds": "14/1",
+          "tf": 3,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 3,
+          "sweep": false
+        },
+        {
           "horse": "Getaway Henry",
           "cloth": 7,
           "odds": "25/1",
@@ -2160,6 +2520,18 @@
           "horse": "Glengarriff",
           "cloth": 10,
           "odds": "25/1",
+          "tf": 2,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 2,
+          "sweep": false
+        },
+        {
+          "horse": "Letters To Juliet",
+          "cloth": 11,
+          "odds": "33/1",
           "tf": 2,
           "atr": 0,
           "atr_rating": null,
@@ -2637,7 +3009,7 @@
       "class": "",
       "distance": "2m 37y",
       "going": "Good",
-      "n": 11,
+      "n": 12,
       "top_horse": "Marhaba Ghaiyyath",
       "top_total": 5,
       "sweep": null,
@@ -2741,6 +3113,18 @@
         {
           "horse": "A Hug Or Two",
           "cloth": 9,
+          "odds": "66/1",
+          "tf": 1,
+          "atr": 0,
+          "atr_rating": null,
+          "rp_rpr": null,
+          "rp": 0,
+          "total": 1,
+          "sweep": false
+        },
+        {
+          "horse": "Getaway Dreams",
+          "cloth": 10,
           "odds": "66/1",
           "tf": 1,
           "atr": 0,

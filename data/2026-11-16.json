@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generated": "2026-11-17T06:08:29+00:00",
+  "generated": "2026-11-24T06:35:12+00:00",
   "cap": 15,
   "sources": {
     "timeform": "ok",
@@ -15,7 +15,7 @@
       "class": "5",
       "distance": "2m 4f 116y",
       "going": "Good-good to soft in places",
-      "n": 10,
+      "n": 12,
       "top_horse": "Market House",
       "top_total": 13,
       "sweep": null,
@@ -81,6 +81,18 @@
           "sweep": false
         },
         {
+          "horse": "Girl Of Gold",
+          "cloth": 6,
+          "odds": "6/1",
+          "tf": 3,
+          "atr": 3,
+          "atr_rating": 97,
+          "rp_rpr": 98,
+          "rp": 0,
+          "total": 6,
+          "sweep": false
+        },
+        {
           "horse": "Rip Wheeler",
           "cloth": 7,
           "odds": "4/1",
@@ -90,6 +102,18 @@
           "rp_rpr": 107,
           "rp": 4,
           "total": 13,
+          "sweep": false
+        },
+        {
+          "horse": "No No Fizz",
+          "cloth": 8,
+          "odds": "20/1",
+          "tf": 2,
+          "atr": 4,
+          "atr_rating": 103,
+          "rp_rpr": 107,
+          "rp": 4,
+          "total": 10,
           "sweep": false
         },
         {
@@ -153,7 +177,7 @@
       "class": "3",
       "distance": "2m 4f 116y",
       "going": "Good-good to soft in places",
-      "n": 8,
+      "n": 10,
       "top_horse": "Kamille Au Kanada",
       "top_total": 15,
       "sweep": {
@@ -222,6 +246,18 @@
           "sweep": false
         },
         {
+          "horse": "Jaramillo",
+          "cloth": 6,
+          "odds": "6/1",
+          "tf": 2,
+          "atr": 2,
+          "atr_rating": 126,
+          "rp_rpr": 130,
+          "rp": 0,
+          "total": 4,
+          "sweep": false
+        },
+        {
           "horse": "Grand Conqueror",
           "cloth": 7,
           "odds": "3/1",
@@ -243,6 +279,18 @@
           "rp_rpr": 127,
           "rp": 0,
           "total": 4,
+          "sweep": false
+        },
+        {
+          "horse": "Tonaghneave Well",
+          "cloth": 9,
+          "odds": "50/1",
+          "tf": 1,
+          "atr": 1,
+          "atr_rating": 117,
+          "rp_rpr": 125,
+          "rp": 0,
+          "total": 2,
           "sweep": false
         },
         {
