@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T06:39:41+00:00",
+  "generated": "2026-11-26T06:13:41+00:00",
   "cap": 15,
   "sources": {
     "timeform": "ok",
@@ -120,120 +120,6 @@
       "verdicts": {
         "atr": "",
         "rp": "by Ben Hutton: Champion Bumper runner-up METS TA CEINTURE is an exciting prospect for novice hurdles and can make a winning start in this discipline."
-      }
-    },
-    {
-      "time": "12:31",
-      "meeting": "Hereford",
-      "name": "Octaga Security Systems Novices' Hurdle (GBB Race)",
-      "class": "4",
-      "distance": "2m 3f 147y",
-      "going": "Good-good to firm in places",
-      "n": 8,
-      "top_horse": "Moments Away",
-      "top_total": 10,
-      "sweep": null,
-      "runners": [
-        {
-          "horse": "Dance Ifyoucan",
-          "cloth": 1,
-          "odds": "16/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "North Gale",
-          "cloth": 2,
-          "odds": "7/4",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 120,
-          "rp": 4,
-          "total": 8,
-          "sweep": false
-        },
-        {
-          "horse": "Moments Away",
-          "cloth": 3,
-          "odds": "1/1",
-          "tf": 5,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 132,
-          "rp": 5,
-          "total": 10,
-          "sweep": false
-        },
-        {
-          "horse": "Teleleo",
-          "cloth": 4,
-          "odds": "5/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Jonjo Bravo",
-          "cloth": 5,
-          "odds": "25/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Jersey Tex",
-          "cloth": 6,
-          "odds": "66/1",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 70,
-          "rp": 3,
-          "total": 4,
-          "sweep": false
-        },
-        {
-          "horse": "Maria's Joy",
-          "cloth": 7,
-          "odds": "66/1",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 70,
-          "rp": 3,
-          "total": 4,
-          "sweep": false
-        },
-        {
-          "horse": "Lizziemouth",
-          "cloth": 8,
-          "odds": "66/1",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 1,
-          "sweep": false
-        }
-      ],
-      "verdicts": {
-        "atr": "",
-        "rp": "by Richard Russell: North Gale is unlikely to prove a pushover but this looks a good opportunity for MOMENTS AWAY."
       }
     },
     {
@@ -405,7 +291,7 @@
       "class": "4",
       "distance": "2m 53y",
       "going": "Good-good to firm in places",
-      "n": 12,
+      "n": 10,
       "top_horse": "Sharu",
       "top_total": 8,
       "sweep": null,
@@ -480,30 +366,6 @@
           "rp_rpr": 111,
           "rp": 5,
           "total": 8,
-          "sweep": false
-        },
-        {
-          "horse": "Lady Kloppenheim",
-          "cloth": 7,
-          "odds": "6/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Lucky Bailly",
-          "cloth": 8,
-          "odds": "16/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
           "sweep": false
         },
         {
@@ -705,7 +567,7 @@
       "class": "4",
       "distance": "2m 3f 154y",
       "going": "Good-good to soft in places",
-      "n": 10,
+      "n": 9,
       "top_horse": "Bertie's Ballet",
       "top_total": 9,
       "sweep": null,
@@ -816,18 +678,6 @@
           "rp_rpr": 120,
           "rp": 5,
           "total": 7,
-          "sweep": false
-        },
-        {
-          "horse": "Norah's Legacy",
-          "cloth": 10,
-          "odds": "33/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
           "sweep": false
         }
       ],
@@ -1167,7 +1017,7 @@
       "class": "4",
       "distance": "2m 3f 154y",
       "going": "Good-good to soft in places",
-      "n": 9,
+      "n": 8,
       "top_horse": "Theatre Tom",
       "top_total": 10,
       "sweep": null,
@@ -1204,20 +1054,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 114,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Punxsutawney Phil",
-          "cloth": 4,
-          "odds": "12/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 117,
-          "rp": 2,
-          "total": 5,
+          "rp": 1,
+          "total": 4,
           "sweep": false
         },
         {
@@ -1276,8 +1114,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 115,
-          "rp": 1,
-          "total": 3,
+          "rp": 2,
+          "total": 4,
           "sweep": false
         }
       ],
@@ -1455,7 +1293,7 @@
       "class": "",
       "distance": "2m",
       "going": "Standard",
-      "n": 15,
+      "n": 14,
       "top_horse": "Red Glory",
       "top_total": 10,
       "sweep": null,
@@ -1569,18 +1407,6 @@
           "sweep": false
         },
         {
-          "horse": "Captain Hanley",
-          "cloth": 10,
-          "odds": "10/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
           "horse": "Synchronize",
           "cloth": 11,
           "odds": "12/1",
@@ -1647,127 +1473,13 @@
       }
     },
     {
-      "time": "14:46",
-      "meeting": "Wetherby",
-      "name": "Watch Racing TV In HD Novices' Handicap Chase (GBB Race)",
-      "class": "4",
-      "distance": "1m 7f 36y",
-      "going": "Good-good to soft in places",
-      "n": 8,
-      "top_horse": "Albie Littlewood",
-      "top_total": 10,
-      "sweep": null,
-      "runners": [
-        {
-          "horse": "Albie Littlewood",
-          "cloth": 1,
-          "odds": "5/2",
-          "tf": 5,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 129,
-          "rp": 5,
-          "total": 10,
-          "sweep": false
-        },
-        {
-          "horse": "Smart Decision",
-          "cloth": 2,
-          "odds": "3/1",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 126,
-          "rp": 4,
-          "total": 8,
-          "sweep": false
-        },
-        {
-          "horse": "Kazar Forez",
-          "cloth": 3,
-          "odds": "20/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Ninna Collina",
-          "cloth": 4,
-          "odds": "4/1",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 4,
-          "sweep": false
-        },
-        {
-          "horse": "Gaelic Rover",
-          "cloth": 5,
-          "odds": "6/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Caballo De Guerra",
-          "cloth": 6,
-          "odds": "6/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Halftheworldaway",
-          "cloth": 7,
-          "odds": "16/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 113,
-          "rp": 2,
-          "total": 5,
-          "sweep": false
-        },
-        {
-          "horse": "Anariza",
-          "cloth": 8,
-          "odds": "20/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 121,
-          "rp": 3,
-          "total": 6,
-          "sweep": false
-        }
-      ],
-      "verdicts": {
-        "atr": "",
-        "rp": "by Alistair Jones: This has a competitive look to it. Tim Easterby's SMART DECISION did plenty right when just missing out on his recent chase debut."
-      }
-    },
-    {
       "time": "14:55",
       "meeting": "Newcastle",
       "name": "All-Weather Championship Is Back EBF Fillies' Novice Stakes (GBB Race)",
       "class": "4",
       "distance": "6f",
       "going": "Standard",
-      "n": 10,
+      "n": 8,
       "top_horse": "Blowing Up A Storm",
       "top_total": 10,
       "sweep": null,
@@ -1845,30 +1557,6 @@
           "sweep": false
         },
         {
-          "horse": "Cornish Pol",
-          "cloth": 7,
-          "odds": "25/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Angelcatcher",
-          "cloth": 8,
-          "odds": "6/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
           "horse": "The Resdev Pumpkin",
           "cloth": 9,
           "odds": "20/1",
@@ -1905,7 +1593,7 @@
       "class": "",
       "distance": "7f",
       "going": "Standard",
-      "n": 17,
+      "n": 14,
       "top_horse": "Sharpe Ratio",
       "top_total": 10,
       "sweep": null,
@@ -1995,18 +1683,6 @@
           "sweep": false
         },
         {
-          "horse": "Catuai",
-          "cloth": 8,
-          "odds": "5/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
           "horse": "Drumbinion Lass",
           "cloth": 9,
           "odds": "12/1",
@@ -2070,30 +1746,6 @@
           "horse": "Victorious Star",
           "cloth": 14,
           "odds": "33/1",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 1,
-          "sweep": false
-        },
-        {
-          "horse": "Silent Promise",
-          "cloth": 15,
-          "odds": "50/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Nando The Great",
-          "cloth": 16,
-          "odds": "100/1",
           "tf": 1,
           "atr": 0,
           "atr_rating": null,
@@ -2565,7 +2217,7 @@
       "class": "",
       "distance": "1m",
       "going": "Standard",
-      "n": 16,
+      "n": 14,
       "top_horse": "Sedro Woolley",
       "top_total": 10,
       "sweep": null,
@@ -2631,18 +2283,6 @@
           "sweep": false
         },
         {
-          "horse": "Miss Abby Jools",
-          "cloth": 6,
-          "odds": "20/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 61,
-          "rp": 3,
-          "total": 6,
-          "sweep": false
-        },
-        {
           "horse": "Magna Gee Gee",
           "cloth": 7,
           "odds": "10/1",
@@ -2664,18 +2304,6 @@
           "rp_rpr": 63,
           "rp": 5,
           "total": 10,
-          "sweep": false
-        },
-        {
-          "horse": "Jackandthefox",
-          "cloth": 9,
-          "odds": "20/1",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 1,
           "sweep": false
         },
         {
@@ -2775,7 +2403,7 @@
       "class": "3",
       "distance": "1m 5y",
       "going": "Standard",
-      "n": 13,
+      "n": 12,
       "top_horse": "Lost Signal",
       "top_total": 9,
       "sweep": null,
@@ -2784,18 +2412,6 @@
           "horse": "Fantastic Fox",
           "cloth": 1,
           "odds": "10/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 101,
-          "rp": 3,
-          "total": 6,
-          "sweep": false
-        },
-        {
-          "horse": "Rhoscolyn",
-          "cloth": 2,
-          "odds": "12/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -2949,7 +2565,7 @@
       "class": "",
       "distance": "1m",
       "going": "Standard",
-      "n": 15,
+      "n": 14,
       "top_horse": "Comfort Line",
       "top_total": 9,
       "sweep": null,
@@ -3058,18 +2674,6 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 52,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Exceeding",
-          "cloth": 10,
-          "odds": "14/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
           "rp": 0,
           "total": 2,
           "sweep": false
@@ -3435,7 +3039,7 @@
       "class": "",
       "distance": "1m",
       "going": "Standard",
-      "n": 15,
+      "n": 14,
       "top_horse": "I Bid You Ajou",
       "top_total": 8,
       "sweep": null,
@@ -3570,18 +3174,6 @@
           "rp_rpr": 82,
           "rp": 2,
           "total": 4,
-          "sweep": false
-        },
-        {
-          "horse": "Albion Power",
-          "cloth": 12,
-          "odds": "50/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
           "sweep": false
         },
         {
@@ -3885,7 +3477,7 @@
       "class": "",
       "distance": "1m 4f",
       "going": "Standard",
-      "n": 15,
+      "n": 14,
       "top_horse": "Let's Smash It",
       "top_total": 10,
       "sweep": null,
@@ -4057,137 +3649,11 @@
           "rp": 0,
           "total": 3,
           "sweep": false
-        },
-        {
-          "horse": "Threebiggulps",
-          "cloth": 15,
-          "odds": "66/1",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 1,
-          "sweep": false
         }
       ],
       "verdicts": {
         "atr": "",
         "rp": "by Alan Sweetman: Beaten only a neck in a 1m maiden here last December, LET'S SMASH IT has shown enough on turf this year to suggest he can score."
-      }
-    },
-    {
-      "time": "17:20",
-      "meeting": "Kempton",
-      "name": "Unibet/British Stallion Studs EBF Novice Stakes (GBB Race)",
-      "class": "4",
-      "distance": "7f",
-      "going": "Standard to slow",
-      "n": 8,
-      "top_horse": "Crown Knott",
-      "top_total": 8,
-      "sweep": null,
-      "runners": [
-        {
-          "horse": "Highest Peak",
-          "cloth": 1,
-          "odds": "5/4",
-          "tf": 5,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 5,
-          "sweep": false
-        },
-        {
-          "horse": "Acclamique",
-          "cloth": 2,
-          "odds": "10/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 56,
-          "rp": 4,
-          "total": 7,
-          "sweep": false
-        },
-        {
-          "horse": "Lean D'aislingean",
-          "cloth": 3,
-          "odds": "7/4",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 4,
-          "sweep": false
-        },
-        {
-          "horse": "Allthemcs",
-          "cloth": 4,
-          "odds": "50/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Crown Knott",
-          "cloth": 5,
-          "odds": "5/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 78,
-          "rp": 5,
-          "total": 8,
-          "sweep": false
-        },
-        {
-          "horse": "Soul Survivor",
-          "cloth": 6,
-          "odds": "25/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Rumblin' Along",
-          "cloth": 7,
-          "odds": "50/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Crack O'nine",
-          "cloth": 8,
-          "odds": "33/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 51,
-          "rp": 3,
-          "total": 5,
-          "sweep": false
-        }
-      ],
-      "verdicts": {
-        "atr": "",
-        "rp": "by Steve Boow: Preference is for well-bred newcomer HIGHEST PEAK . Lean d'Aislingean sets the standard on his best form."
       }
     },
     {
@@ -4719,7 +4185,7 @@
       "class": "6",
       "distance": "7f 14y",
       "going": "Standard",
-      "n": 12,
+      "n": 10,
       "top_horse": "Tomorrow Day",
       "top_total": 9,
       "sweep": null,
@@ -4746,18 +4212,6 @@
           "rp_rpr": 61,
           "rp": 2,
           "total": 5,
-          "sweep": false
-        },
-        {
-          "horse": "Teardrops",
-          "cloth": 3,
-          "odds": "7/2",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 65,
-          "rp": 3,
-          "total": 6,
           "sweep": false
         },
         {
@@ -4806,18 +4260,6 @@
           "rp_rpr": 60,
           "rp": 1,
           "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Lady Delila",
-          "cloth": 8,
-          "odds": "10/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 65,
-          "rp": 3,
-          "total": 6,
           "sweep": false
         },
         {
@@ -4881,7 +4323,7 @@
       "class": "6",
       "distance": "1m",
       "going": "Standard to slow",
-      "n": 13,
+      "n": 12,
       "top_horse": "Upsomdowns",
       "top_total": 9,
       "sweep": null,
@@ -5007,18 +4449,6 @@
           "sweep": false
         },
         {
-          "horse": "Viviana",
-          "cloth": 11,
-          "odds": "16/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 71,
-          "rp": 4,
-          "total": 6,
-          "sweep": false
-        },
-        {
           "horse": "Salamis Bay",
           "cloth": 12,
           "odds": "66/1",
@@ -5055,7 +4485,7 @@
       "class": "6",
       "distance": "7f 14y",
       "going": "Standard",
-      "n": 13,
+      "n": 12,
       "top_horse": "Gressington",
       "top_total": 9,
       "sweep": null,
@@ -5112,18 +4542,6 @@
           "horse": "Sovereign Class",
           "cloth": 5,
           "odds": "4/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 65,
-          "rp": 3,
-          "total": 6,
-          "sweep": false
-        },
-        {
-          "horse": "Spirited Dancer",
-          "cloth": 6,
-          "odds": "7/1",
           "tf": 3,
           "atr": 0,
           "atr_rating": null,
@@ -5529,7 +4947,7 @@
       "class": "5",
       "distance": "1m 2f 219y",
       "going": "Standard to slow",
-      "n": 12,
+      "n": 11,
       "top_horse": "Midnight Media",
       "top_total": 9,
       "sweep": null,
@@ -5619,18 +5037,6 @@
           "sweep": false
         },
         {
-          "horse": "Vilaine Verlaine",
-          "cloth": 8,
-          "odds": "66/1",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 75,
-          "rp": 2,
-          "total": 3,
-          "sweep": false
-        },
-        {
           "horse": "Star Of Dubai",
           "cloth": 9,
           "odds": "50/1",
@@ -5691,7 +5097,7 @@
       "class": "5",
       "distance": "7f",
       "going": "Standard to slow",
-      "n": 14,
+      "n": 13,
       "top_horse": "Phoenix Of Dreams",
       "top_total": 10,
       "sweep": null,
@@ -5801,18 +5207,6 @@
           "atr_rating": null,
           "rp_rpr": 75,
           "rp": 1,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Hexagonal",
-          "cloth": 10,
-          "odds": "100/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 73,
-          "rp": 0,
           "total": 2,
           "sweep": false
         },
