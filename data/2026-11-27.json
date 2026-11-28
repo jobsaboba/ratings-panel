@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generated": "2026-11-27T06:14:08+00:00",
+  "generated": "2026-11-28T06:36:59+00:00",
   "cap": 15,
   "sources": {
     "timeform": "ok",
@@ -15,9 +15,9 @@
       "class": "3",
       "distance": "2m 69y",
       "going": "Good-good to soft in places on hurdle course",
-      "n": 13,
-      "top_horse": "Oatsoeasy",
-      "top_total": 9,
+      "n": 12,
+      "top_horse": "Midnight Escape",
+      "top_total": 8,
       "sweep": null,
       "runners": [
         {
@@ -52,8 +52,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 66,
-          "rp": 1,
-          "total": 2,
+          "rp": 2,
+          "total": 3,
           "sweep": false
         },
         {
@@ -93,18 +93,6 @@
           "sweep": false
         },
         {
-          "horse": "Oatsoeasy",
-          "cloth": 7,
-          "odds": "5/1",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 123,
-          "rp": 5,
-          "total": 9,
-          "sweep": false
-        },
-        {
           "horse": "Lady Kluck",
           "cloth": 8,
           "odds": "50/1",
@@ -124,8 +112,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 93,
-          "rp": 3,
-          "total": 5,
+          "rp": 4,
+          "total": 6,
           "sweep": false
         },
         {
@@ -136,8 +124,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 108,
-          "rp": 4,
-          "total": 7,
+          "rp": 5,
+          "total": 8,
           "sweep": false
         },
         {
@@ -148,8 +136,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 73,
-          "rp": 2,
-          "total": 3,
+          "rp": 3,
+          "total": 4,
           "sweep": false
         },
         {
@@ -189,7 +177,7 @@
       "class": "3",
       "distance": "2m 69y",
       "going": "Good-good to soft in places on hurdle course",
-      "n": 12,
+      "n": 11,
       "top_horse": "Stick To The Board",
       "top_total": 10,
       "sweep": null,
@@ -202,8 +190,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 107,
-          "rp": 2,
-          "total": 4,
+          "rp": 3,
+          "total": 5,
           "sweep": false
         },
         {
@@ -226,8 +214,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 101,
-          "rp": 0,
-          "total": 2,
+          "rp": 1,
+          "total": 3,
           "sweep": false
         },
         {
@@ -240,18 +228,6 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Octo Gane",
-          "cloth": 5,
-          "odds": "11/2",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 115,
-          "rp": 3,
-          "total": 7,
           "sweep": false
         },
         {
@@ -286,8 +262,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 104,
-          "rp": 1,
-          "total": 3,
+          "rp": 2,
+          "total": 4,
           "sweep": false
         },
         {
@@ -468,120 +444,6 @@
       "verdicts": {
         "atr": "",
         "rp": "by Ben Hutton: This is all about the penalised NOBODY TOLD ME , who will be very tough to beat if repeating the form of his easy win on Tuesday."
-      }
-    },
-    {
-      "time": "14:25",
-      "meeting": "Newbury",
-      "name": "Coral 'Bet10 Get50 Sign Up Offer' Handicap Chase (GBB Race)",
-      "class": "2",
-      "distance": "2m 3f 187y",
-      "going": "Good-good to soft in places on hurdle course",
-      "n": 8,
-      "top_horse": "Etalon",
-      "top_total": 10,
-      "sweep": null,
-      "runners": [
-        {
-          "horse": "Bluey",
-          "cloth": 1,
-          "odds": "4/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 150,
-          "rp": 1,
-          "total": 4,
-          "sweep": false
-        },
-        {
-          "horse": "Twinjets",
-          "cloth": 2,
-          "odds": "4/1",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 154,
-          "rp": 3,
-          "total": 7,
-          "sweep": false
-        },
-        {
-          "horse": "Teddy Blue",
-          "cloth": 3,
-          "odds": "7/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 150,
-          "rp": 1,
-          "total": 4,
-          "sweep": false
-        },
-        {
-          "horse": "Etalon",
-          "cloth": 4,
-          "odds": "5/1",
-          "tf": 5,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 159,
-          "rp": 5,
-          "total": 10,
-          "sweep": false
-        },
-        {
-          "horse": "Kap Ouest",
-          "cloth": 5,
-          "odds": "9/4",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 157,
-          "rp": 4,
-          "total": 8,
-          "sweep": false
-        },
-        {
-          "horse": "Gemirande",
-          "cloth": 6,
-          "odds": "16/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Issar D'Airy",
-          "cloth": 7,
-          "odds": "16/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Le Patron",
-          "cloth": 8,
-          "odds": "20/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 153,
-          "rp": 2,
-          "total": 4,
-          "sweep": false
-        }
-      ],
-      "verdicts": {
-        "atr": "",
-        "rp": "by Richard Austen: Twinjets (second choice) and Etalon are shortlisted but the most potential surely belongs to KAP OUEST (nap)."
       }
     },
     {
@@ -819,7 +681,7 @@
       "class": "1",
       "distance": "3m 57y",
       "going": "Good-good to soft in places on hurdle course",
-      "n": 11,
+      "n": 8,
       "top_horse": "Le Frimeur",
       "top_total": 5,
       "sweep": null,
@@ -885,18 +747,6 @@
           "sweep": false
         },
         {
-          "horse": "Lud'or",
-          "cloth": 6,
-          "odds": "25/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
           "horse": "Le Frimeur",
           "cloth": 7,
           "odds": "3/1",
@@ -906,18 +756,6 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 5,
-          "sweep": false
-        },
-        {
-          "horse": "Caldwell Potter",
-          "cloth": 8,
-          "odds": "12/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
           "sweep": false
         },
         {
@@ -942,18 +780,6 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Thomas Mor",
-          "cloth": 11,
-          "odds": "33/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 2,
           "sweep": false
         }
       ],
@@ -1083,7 +909,7 @@
       "class": "3",
       "distance": "3m 57y",
       "going": "Good-good to soft in places on hurdle course",
-      "n": 15,
+      "n": 13,
       "top_horse": "Lihyan",
       "top_total": 9,
       "sweep": null,
@@ -1161,18 +987,6 @@
           "sweep": false
         },
         {
-          "horse": "Wonderful Eagle",
-          "cloth": 7,
-          "odds": "14/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 135,
-          "rp": 1,
-          "total": 3,
-          "sweep": false
-        },
-        {
           "horse": "Deep Cave",
           "cloth": 8,
           "odds": "25/1",
@@ -1192,18 +1006,6 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 131,
-          "rp": 0,
-          "total": 2,
-          "sweep": false
-        },
-        {
-          "horse": "Inoui Machin",
-          "cloth": 10,
-          "odds": "25/1",
-          "tf": 2,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
           "rp": 0,
           "total": 2,
           "sweep": false
@@ -1455,23 +1257,11 @@
       "class": "3",
       "distance": "1m 13y",
       "going": "Standard",
-      "n": 11,
+      "n": 9,
       "top_horse": "Gracious Gift",
       "top_total": 10,
       "sweep": null,
       "runners": [
-        {
-          "horse": "Rose Chimes",
-          "cloth": 1,
-          "odds": "16/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
         {
           "horse": "Gracious Gift",
           "cloth": 2,
@@ -1506,18 +1296,6 @@
           "rp_rpr": null,
           "rp": 0,
           "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Southover Gardens",
-          "cloth": 5,
-          "odds": "7/2",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 4,
           "sweep": false
         },
         {
@@ -2007,23 +1785,11 @@
       "class": "",
       "distance": "6f",
       "going": "Standard",
-      "n": 17,
+      "n": 14,
       "top_horse": "Ria's Angel",
       "top_total": 10,
       "sweep": null,
       "runners": [
-        {
-          "horse": "Kodiak Gold",
-          "cloth": 1,
-          "odds": "4/1",
-          "tf": 4,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 4,
-          "sweep": false
-        },
         {
           "horse": "Ria's Angel",
           "cloth": 2,
@@ -2191,30 +1957,6 @@
           "rp": 0,
           "total": 3,
           "sweep": false
-        },
-        {
-          "horse": "Sadie Rose",
-          "cloth": 16,
-          "odds": "",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 1,
-          "sweep": false
-        },
-        {
-          "horse": "Chesham",
-          "cloth": 17,
-          "odds": "",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
         }
       ],
       "verdicts": {
@@ -2229,23 +1971,11 @@
       "class": "6",
       "distance": "2m 102y",
       "going": "Standard",
-      "n": 14,
-      "top_horse": "Smokey Malone",
-      "top_total": 8,
+      "n": 13,
+      "top_horse": "Someone's Wish",
+      "top_total": 6,
       "sweep": null,
       "runners": [
-        {
-          "horse": "Smokey Malone",
-          "cloth": 1,
-          "odds": "16/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 71,
-          "rp": 5,
-          "total": 8,
-          "sweep": false
-        },
         {
           "horse": "Zephlyn",
           "cloth": 2,
@@ -2254,8 +1984,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 65,
-          "rp": 2,
-          "total": 4,
+          "rp": 3,
+          "total": 5,
           "sweep": false
         },
         {
@@ -2266,8 +1996,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 65,
-          "rp": 2,
-          "total": 5,
+          "rp": 3,
+          "total": 6,
           "sweep": false
         },
         {
@@ -2278,8 +2008,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 63,
-          "rp": 0,
-          "total": 5,
+          "rp": 1,
+          "total": 6,
           "sweep": false
         },
         {
@@ -2314,8 +2044,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 69,
-          "rp": 3,
-          "total": 5,
+          "rp": 4,
+          "total": 6,
           "sweep": false
         },
         {
@@ -2350,8 +2080,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 63,
-          "rp": 0,
-          "total": 3,
+          "rp": 1,
+          "total": 4,
           "sweep": false
         },
         {
@@ -2374,8 +2104,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 63,
-          "rp": 0,
-          "total": 2,
+          "rp": 1,
+          "total": 3,
           "sweep": false
         },
         {
@@ -2386,8 +2116,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 70,
-          "rp": 4,
-          "total": 5,
+          "rp": 5,
+          "total": 6,
           "sweep": false
         },
         {
@@ -2398,8 +2128,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 64,
-          "rp": 1,
-          "total": 3,
+          "rp": 2,
+          "total": 4,
           "sweep": false
         }
       ],
@@ -2529,7 +2259,7 @@
       "class": "6",
       "distance": "1m 4f 14y",
       "going": "Standard",
-      "n": 14,
+      "n": 13,
       "top_horse": "Light Speed",
       "top_total": 9,
       "sweep": null,
@@ -2578,8 +2308,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 53,
-          "rp": 1,
-          "total": 3,
+          "rp": 2,
+          "total": 4,
           "sweep": false
         },
         {
@@ -2619,18 +2349,6 @@
           "sweep": false
         },
         {
-          "horse": "Off Spin",
-          "cloth": 8,
-          "odds": "6/1",
-          "tf": 5,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 54,
-          "rp": 2,
-          "total": 7,
-          "sweep": false
-        },
-        {
           "horse": "No Ordinary Joe",
           "cloth": 9,
           "odds": "12/1",
@@ -2638,8 +2356,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 52,
-          "rp": 0,
-          "total": 3,
+          "rp": 1,
+          "total": 4,
           "sweep": false
         },
         {
@@ -2674,8 +2392,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 53,
-          "rp": 1,
-          "total": 5,
+          "rp": 2,
+          "total": 6,
           "sweep": false
         },
         {
@@ -2698,8 +2416,8 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 52,
-          "rp": 0,
-          "total": 2,
+          "rp": 1,
+          "total": 3,
           "sweep": false
         }
       ],
@@ -2715,8 +2433,8 @@
       "class": "",
       "distance": "6f",
       "going": "Standard",
-      "n": 16,
-      "top_horse": "Alfred Tennyson",
+      "n": 13,
+      "top_horse": "Saint Acclaim",
       "top_total": 8,
       "sweep": null,
       "runners": [
@@ -2740,18 +2458,6 @@
           "atr": 0,
           "atr_rating": null,
           "rp_rpr": 73,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Clonmacash",
-          "cloth": 3,
-          "odds": "",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
           "rp": 0,
           "total": 3,
           "sweep": false
@@ -2829,30 +2535,6 @@
           "sweep": false
         },
         {
-          "horse": "Alfred Tennyson",
-          "cloth": 10,
-          "odds": "8/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 78,
-          "rp": 5,
-          "total": 8,
-          "sweep": false
-        },
-        {
-          "horse": "Fox In Flight",
-          "cloth": 11,
-          "odds": "",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 3,
-          "sweep": false
-        },
-        {
           "horse": "Saint Acclaim",
           "cloth": 12,
           "odds": "7/1",
@@ -2925,7 +2607,7 @@
       "class": "",
       "distance": "2m",
       "going": "Standard",
-      "n": 10,
+      "n": 9,
       "top_horse": "Murat",
       "top_total": 10,
       "sweep": null,
@@ -3035,18 +2717,6 @@
           "atr_rating": null,
           "rp_rpr": 94,
           "rp": 1,
-          "total": 3,
-          "sweep": false
-        },
-        {
-          "horse": "Mister Adam",
-          "cloth": 10,
-          "odds": "8/1",
-          "tf": 3,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": 90,
-          "rp": 0,
           "total": 3,
           "sweep": false
         }
@@ -3213,7 +2883,7 @@
       "class": "",
       "distance": "1m 2f 150y",
       "going": "Standard",
-      "n": 15,
+      "n": 14,
       "top_horse": "Riyazanka",
       "top_total": 10,
       "sweep": null,
@@ -3384,18 +3054,6 @@
           "rp_rpr": 76,
           "rp": 4,
           "total": 5,
-          "sweep": false
-        },
-        {
-          "horse": "Rosanella",
-          "cloth": 15,
-          "odds": "",
-          "tf": 1,
-          "atr": 0,
-          "atr_rating": null,
-          "rp_rpr": null,
-          "rp": 0,
-          "total": 1,
           "sweep": false
         }
       ],
